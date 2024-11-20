@@ -375,6 +375,307 @@ CMakeFiles\FIGV.dir\FigvCamera.cpp.obj: "C:\Program Files\Microsoft Visual Studi
 CMakeFiles\FIGV.dir\FigvCamera.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\ctype.h"
 
 
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: FigvEventManager.cpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: FigvEventManager.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\GLFW\glfw3.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stddef.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\vcruntime.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\sal.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\concurrencysal.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\vadefs.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\stdint.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\GL\gl.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winapifamily.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winpackagefamily.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: imgui\imgui.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: imgui\imconfig.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\float.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\stdarg.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\string.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memory.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memcpy_s.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\errno.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\vcruntime_string.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstring.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: FigvScene.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: FigvShader.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\string"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\yvals_core.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xkeycheck.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xstring"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\__msvc_sanitizer_annotate_container.hpp"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\__msvc_string_view.hpp"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\iosfwd"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\yvals.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\crtdbg.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\vcruntime_new_debug.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\vcruntime_new.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\crtdefs.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\use_ansi.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\cstdio"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdio.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdio.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_stdio_config.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\cstring"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\cwchar"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\wchar.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wconio.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wctype.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wdirect.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wio.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_share.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wprocess.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdlib.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wtime.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\sys\stat.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\sys\types.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xtr1common"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xutility"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\__msvc_iter_core.hpp"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\utility"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\initializer_list"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\cstddef"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\type_traits"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\cstdint"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\compare"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\concepts"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\climits"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\limits.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\cstdlib"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\math.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_math.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdlib.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_malloc.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_search.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xmemory"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\limits"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\cfloat"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\intrin0.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\intrin0.inl.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\new"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\exception"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\malloc.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\vcruntime_exception.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\eh.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_terminate.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xatomic.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\tuple"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xpolymorphic_allocator.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\cctype"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\ctype.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\vec3.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool3.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_vec3.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\qualifier.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\cassert"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\simd\platform.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec3.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\compute_vector_relational.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool3_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float3.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float3_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double3.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double3_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int3.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int3_sized.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\ext\scalar_int_sized.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint3.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint3_sized.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\ext\scalar_uint_sized.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\glm.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\_fixes.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\cmath"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\cassert"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\fwd.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\vec2.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool2.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_vec2.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec2.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool2_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float2.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float2_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double2.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double2_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int2.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int2_sized.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint2.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint2_sized.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\vec4.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool4.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_vec4.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec4.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool4_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float4.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float4_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double4.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double4_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int4.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int4_sized.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint4.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint4_sized.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat2x2.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x2.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat2x2.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat2x2.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\matrix.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat2x3.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x3.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat2x3.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat2x3.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x3_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x3.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x3_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat2x4.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x4.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat2x4.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat2x4.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x4_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x4.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x4_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat3x2.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x2.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat3x2.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat3x2.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x2_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x2.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x2_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat3x3.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x3.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat3x3.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat3x3.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x3_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x3.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x3_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat3x4.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x4.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat3x4.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat3x4.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x4_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x4.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x4_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat4x2.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x2.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat4x2.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat4x2.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x2_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x2.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x2_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat4x3.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x3.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat4x3.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat4x3.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x3_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x3.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x3_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat4x4.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x4.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat4x4.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat4x4.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x4_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x4.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x4_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_matrix.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\geometric.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_geometric.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\exponential.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec1.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec1.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_exponential.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\vector_relational.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_vector_relational.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\_vectorize.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\cassert"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\common.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\_fixes.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_common.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\compute_common.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x2_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x2.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x2_precision.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\trigonometric.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_trigonometric.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\packing.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_packing.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_half.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_half.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\integer.hpp
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_integer.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\intrin.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\setjmp.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\immintrin.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\wmmintrin.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\nmmintrin.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\smmintrin.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\tmmintrin.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\pmmintrin.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\emmintrin.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xmmintrin.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\mmintrin.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\zmmintrin.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\ammintrin.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: FigvCamera.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: FigvModel.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\vector"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\__msvc_bit_utils.hpp"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\scene.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\types.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\defs.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\config.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\vector2.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\vector3.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\color4.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\matrix3x3.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\matrix4x4.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\quaternion.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\vector2.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\vector3.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\color4.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\matrix3x3.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\algorithm"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\__msvc_heap_algorithms.hpp"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\__msvc_minmax.hpp"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\matrix4x4.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\MathFunctions.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\quaternion.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\texture.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\.\Compiler\pushpack1.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\.\Compiler\poppack1.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\mesh.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\aabb.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\unordered_set"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xhash"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\list"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xbit_ops.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xnode_handle.h"
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\light.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\camera.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\material.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\.\Compiler\pushpack1.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\.\Compiler\poppack1.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\material.inl
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\anim.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\metadata.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: FigvMesh.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: FigvMaterial.h
+CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: FigvLightSource.h
+
+
 CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: FigvLightSource.cpp
 CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: FigvLightSource.h
 CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdio.h"
@@ -4305,13 +4606,13 @@ FigvAuxiliaryFunctions.cpp:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\crtdbg.h":
 
+C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\ext\quaternion_relational.hpp:
+
 "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\sal.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\matrix_transform.inl:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\list":
-
-C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\ext\quaternion_relational.hpp:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xlocnum":
 
@@ -4344,8 +4645,6 @@ FigvWindowSystem.h:
 "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\vcruntime.h":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\intrin0.inl.h":
-
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winioctl.h":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\yvals_core.h":
 
@@ -4443,9 +4742,9 @@ FigvAuxiliaryFunctions.h:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_malloc.h":
 
-C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\ext\quaternion_geometric.hpp:
-
 C:\src\vcpkg\installed\x64-windows\include\assimp\metadata.h:
+
+C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\ext\quaternion_geometric.hpp:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdlib.h":
 
@@ -5067,6 +5366,8 @@ C:\src\vcpkg\installed\x64-windows\include\assimp\texture.h:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\tmmintrin.h":
 
+FigvEventManager.cpp:
+
 "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\pmmintrin.h":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\emmintrin.h":
@@ -5083,9 +5384,29 @@ C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_bool1.hpp:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\__msvc_filebuf.hpp":
 
-FigvLightSource.cpp:
+C:\src\vcpkg\installed\x64-windows\include\GLFW\glfw3.h:
 
-FigvLightSource.h:
+C:\src\vcpkg\installed\x64-windows\include\GL\gl.h:
+
+imgui\backends\imgui_impl_opengl3_loader.h:
+
+C:\src\vcpkg\installed\x64-windows\include\assimp\aabb.h:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winpackagefamily.h":
+
+imgui\imgui.h:
+
+imgui\imconfig.h:
+
+C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\gtc\vec1.hpp:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\stdarg.h":
+
+FigvScene.h:
+
+C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_float1_precision.hpp:
+
+FigvShader.h:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_float1.hpp:
 
@@ -5095,11 +5416,71 @@ C:\src\vcpkg\installed\x64-windows\include\glm\detail\qualifier.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\compute_vector_relational.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_float1_precision.hpp:
-
-FigvShader.h:
-
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\matrix.hpp:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\vector":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\urlmon.h":
+
+C:\src\vcpkg\installed\x64-windows\include\assimp\scene.h:
+
+C:\src\vcpkg\installed\x64-windows\include\assimp\config.h:
+
+C:\src\vcpkg\installed\x64-windows\include\assimp\vector2.h:
+
+C:\src\vcpkg\installed\x64-windows\include\assimp\vector3.h:
+
+C:\src\vcpkg\installed\x64-windows\include\assimp\matrix4x4.h:
+
+C:\src\vcpkg\installed\x64-windows\include\assimp\vector2.inl:
+
+C:\src\vcpkg\installed\x64-windows\include\assimp\material.h:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\cguid.h":
+
+C:\src\vcpkg\installed\x64-windows\include\assimp\vector3.inl:
+
+C:\src\vcpkg\installed\x64-windows\include\assimp\color4.inl:
+
+C:\src\vcpkg\installed\x64-windows\include\glm\ext\vector_relational.inl:
+
+C:\src\vcpkg\installed\x64-windows\include\assimp\matrix3x3.inl:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\algorithm":
+
+"C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\__msvc_minmax.hpp":
+
+FigvShader.cpp:
+
+C:\src\vcpkg\installed\x64-windows\include\assimp\MathFunctions.h:
+
+C:\src\vcpkg\installed\x64-windows\include\assimp\quaternion.inl:
+
+C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\matrix_clip_space.hpp:
+
+C:\src\vcpkg\installed\x64-windows\include\assimp\.\Compiler\pushpack1.h:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\minwindef.h":
+
+C:\src\vcpkg\installed\x64-windows\include\assimp\.\Compiler\poppack1.h:
+
+C:\src\vcpkg\installed\x64-windows\include\assimp\mesh.h:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\unordered_set":
+
+"C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xbit_ops.h":
+
+C:\src\vcpkg\installed\x64-windows\include\assimp\light.h:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\sstream":
+
+C:\src\vcpkg\installed\x64-windows\include\assimp\camera.h:
+
+FigvMesh.h:
+
+FigvLightSource.h:
+
+FigvLightSource.cpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\gtc\quaternion.hpp:
 
@@ -5107,15 +5488,7 @@ C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\gtc\quaternion.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\gtc\matrix_transform.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\matrix_clip_space.hpp:
-
-C:\src\vcpkg\installed\x64-windows\include\assimp\quaternion.inl:
-
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\matrix_transform.hpp:
-
-C:\src\vcpkg\installed\x64-windows\include\assimp\matrix3x3.inl:
-
-C:\src\vcpkg\installed\x64-windows\include\glm\ext\vector_relational.inl:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_float.hpp:
 
@@ -5134,10 +5507,6 @@ C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_bool1_precision
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\quaternion_double_precision.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\quaternion_trigonometric.inl:
-
-C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\gtc\vec1.hpp:
-
-imgui\imconfig.h:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\debugapi.h":
 
@@ -5159,75 +5528,15 @@ C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_uint1_sized.hpp
 
 FigvMesh.cpp:
 
-FigvMesh.h:
-
-"C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\vector":
-
 C:\src\glad\include\glad\glad.h:
 
 C:\src\glad\include\KHR\khrplatform.h:
 
-C:\src\vcpkg\installed\x64-windows\include\assimp\config.h:
-
-C:\src\vcpkg\installed\x64-windows\include\assimp\vector2.h:
-
-C:\src\vcpkg\installed\x64-windows\include\assimp\vector3.h:
-
-C:\src\vcpkg\installed\x64-windows\include\assimp\matrix4x4.h:
-
-C:\src\vcpkg\installed\x64-windows\include\assimp\vector2.inl:
-
-C:\src\vcpkg\installed\x64-windows\include\assimp\material.h:
-
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\cguid.h":
-
-C:\src\vcpkg\installed\x64-windows\include\assimp\vector3.inl:
-
-C:\src\vcpkg\installed\x64-windows\include\assimp\color4.inl:
-
-"C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\algorithm":
-
-"C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\__msvc_minmax.hpp":
-
-FigvShader.cpp:
-
-C:\src\vcpkg\installed\x64-windows\include\assimp\MathFunctions.h:
-
 C:\src\vcpkg\installed\x64-windows\include\assimp\postprocess.h:
-
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\urlmon.h":
-
-C:\src\vcpkg\installed\x64-windows\include\assimp\scene.h:
-
-C:\src\vcpkg\installed\x64-windows\include\assimp\.\Compiler\pushpack1.h:
-
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\minwindef.h":
-
-C:\src\vcpkg\installed\x64-windows\include\assimp\.\Compiler\poppack1.h:
-
-C:\src\vcpkg\installed\x64-windows\include\assimp\mesh.h:
-
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winpackagefamily.h":
-
-imgui\backends\imgui_impl_opengl3_loader.h:
-
-C:\src\vcpkg\installed\x64-windows\include\assimp\aabb.h:
-
-"C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\unordered_set":
-
-"C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xbit_ops.h":
-
-C:\src\vcpkg\installed\x64-windows\include\assimp\light.h:
-
-"C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\sstream":
-
-C:\src\vcpkg\installed\x64-windows\include\assimp\camera.h:
 
 FigvRenderer.h:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\realtimeapiset.h":
-
-FigvScene.h:
 
 FigvScene.cpp:
 
@@ -5235,15 +5544,7 @@ FigvScene.cpp:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\fstream":
 
-C:\src\vcpkg\installed\x64-windows\include\GLFW\glfw3.h:
-
-C:\src\vcpkg\installed\x64-windows\include\GL\gl.h:
-
 imgui\backends\imgui_impl_opengl3.h:
-
-imgui\imgui.h:
-
-"C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\stdarg.h":
 
 FigvWindowSystem.cpp:
 
@@ -5350,6 +5651,8 @@ imgui\imstb_rectpack.h:
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\rpcnsip.h":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcsal.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winioctl.h":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winspool.h":
 

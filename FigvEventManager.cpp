@@ -24,8 +24,8 @@ FigvEventManager* FigvEventManager::getInstance() {
 }
 
 // FIGV EVT: 3
-int* FigvEventManager::getCameraMovement() {
-    return &cameraMovement;
+CameraMovement* FigvEventManager::getCameraMovement() {
+    return &camera;
 }
 
 void FigvEventManager::processMouseClics(GLFWwindow* window, int button, int action, int mods) {
@@ -58,7 +58,7 @@ void FigvEventManager::processCursorPosition(double xPos, double yPos) {
         lastY = yPos;
 
         // FIGV EVT: 4
-        if (cameraMovement == 0) {
+        if (camera == 0) {
             FigvScene::orbitCamera(float(-xOffset), float(-yOffset));
         } else {
             FigvScene::panCamera(float(xOffset), float(yOffset));

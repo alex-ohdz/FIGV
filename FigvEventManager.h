@@ -16,6 +16,10 @@
 
 #include <GLFW/glfw3.h>
 
+enum CameraMovement {
+    ORBIT = 0,
+    PANORAMA = 1
+};
 /// Encapsula la gestión de los eventos de ratón. Se separa de la detección de
 /// esos eventos que se se realiza en el archivo main.cpp
 ///
@@ -31,13 +35,15 @@ public:
     ~FigvEventManager();
     
     // FIGV EVT: 2
-    int *getCameraMovement();
+    CameraMovement *getCameraMovement();
     /// Gestiona los eventos de pulsación de un botón del ratón.
     void processMouseClics(GLFWwindow* window, int button, int action, int mods);
     /// Gestiona los eventos de movimiento de la rueda del ratón.
     void processMouseScroll(double yDisplacement);
     /// Gestiona los movimientos del ratón.
     void processCursorPosition(double xPos, double yPos);
+
+    CameraMovement camera = ORBIT;
 
 private:
     /// El constructor es privado para impedir que pueda invocarse para construir

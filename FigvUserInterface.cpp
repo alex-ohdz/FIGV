@@ -90,10 +90,11 @@ void FigvUserInterface::preparePalettes() {
     ImGui::Begin("Renderer properties");
     ImGui::ColorEdit3("Background", FigvRenderer::getInstance()->getBackgroundColor());
     // FIGV USR: 1
+
     ImGui::SeparatorText("Camera movements");
-    ImGui::RadioButton("Orbit", FigvEventManager::getInstance()->getCameraMovement(),
-    0); ImGui::SameLine();
-    ImGui::RadioButton("Panorama", FigvEventManager::getInstance()->getCameraMovement(), 1);
+    ImGui::RadioButton("Orbit",reinterpret_cast<int*>(FigvEventManager::getInstance()->getCameraMovement()), 0); 
+    ImGui::SameLine();
+    ImGui::RadioButton("Panorama",reinterpret_cast<int*>(FigvEventManager::getInstance()->getCameraMovement()), 1);
 
     ImGui::SeparatorText("Render mode");
     ImGui::Checkbox("GL_LINE mode", &FigvRenderer::getInstance()->modeLine);
