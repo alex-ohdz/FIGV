@@ -1,0 +1,3 @@
+C:/Users/Alej/Desktop/FIGV-6-Start/FIGV/CMakeFiles/FIGV.dir
+C:/Users/Alej/Desktop/FIGV-6-Start/FIGV/CMakeFiles/edit_cache.dir
+C:/Users/Alej/Desktop/FIGV-6-Start/FIGV/CMakeFiles/rebuild_cache.dir
