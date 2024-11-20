@@ -85,6 +85,8 @@ void FigvUserInterface::preparePalettes() {
 
     const char* items[] = { "Spot", "Bob", "Blub" };
 
+    bool isChecked = false;
+
     ImGui::Begin("Renderer properties");
     ImGui::ColorEdit3("Background", FigvRenderer::getInstance()->getBackgroundColor());
     // FIGV USR: 1
@@ -93,8 +95,10 @@ void FigvUserInterface::preparePalettes() {
     0); ImGui::SameLine();
     ImGui::RadioButton("Panorama", FigvEventManager::getInstance()->getCameraMovement(), 1);
 
-    ImGui::SeparatorText("Renderizar");
-    // ImGui::Checkbox("mostrarVertices",FigvEventManager::getInstance()->get)
+    ImGui::SeparatorText("Render mode");
+    ImGui::Checkbox("GL_LINE mode", &FigvRenderer::getInstance()->modeLine);
+    ImGui::Checkbox("GL_POINT mode", &FigvRenderer::getInstance()->modePoint);
+    ImGui::InputFloat("My Float",&FigvRenderer::getInstance()->pointSize,0.1f, 1.0f);
     // FIGV USR: 3
     
     // FIGV USR: 2
@@ -112,5 +116,5 @@ void FigvUserInterface::preparePalettes() {
 // que se muestran todos los widgets que se pueden usar con ImGui. El código
 // que construye esos widgets se encuentra en el archivo: imgui_demo.cpp
     
-ImGui::ShowDemoWindow();
+// ImGui::ShowDemoWindow();
 }

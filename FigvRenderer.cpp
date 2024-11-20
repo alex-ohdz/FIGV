@@ -44,12 +44,7 @@ void FigvRenderer::renderScene() {
 }
 
 
-// bool* FigvRenderer::getRender(){
-//     FigvRenderer::getInstance()->render();
-// }
 void FigvRenderer::render() {
-
-    // bool check = false;
 
     glClearColor(background[0], background[1], background[2], background[3]);
     glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
@@ -58,14 +53,19 @@ void FigvRenderer::render() {
     glDepthFunc(GL_LEQUAL);
 
     glEnable(GL_MULTISAMPLE);
+
+    if(modeLine){
+        glPolygonMode(GL_FRONT_AND_BACK,GL_LINE);
+        modePoint = false;
+    }else if(modePoint){
+        glPolygonMode(GL_FRONT_AND_BACK,GL_POINT);
+        glPointSize(pointSize);
+        modeLine = false;
+    }else{
+        glPolygonMode(GL_FRONT_AND_BACK,GL_FILL);
+    }
     
     // FIGV RND: 1
-    // if (check)
-    // {
-    //     glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
-    // }
-    
-    glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
-
+    // glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
     FigvScene::drawScene(*shader);
 }

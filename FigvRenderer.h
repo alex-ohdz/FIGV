@@ -43,6 +43,10 @@ public:
     /// render()
     static void renderScene();
 
+    bool modeLine = false;
+    bool modePoint = false;
+    float pointSize = 1.0f;
+
 private:
     /// El constructor es privado para impedir que pueda invocarse para construir
     /// otras instancias además del singleton.

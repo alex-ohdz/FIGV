@@ -375,6 +375,304 @@ CMakeFiles\FIGV.dir\FigvCamera.cpp.obj: "C:\Program Files\Microsoft Visual Studi
 CMakeFiles\FIGV.dir\FigvCamera.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\ctype.h"
 
 
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: FigvLightSource.cpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: FigvLightSource.h
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdio.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\vcruntime.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\sal.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\concurrencysal.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\vadefs.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdio.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_stdio_config.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\vec3.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool3.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_vec3.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\qualifier.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\cassert"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\yvals_core.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xkeycheck.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\cstddef"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stddef.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xtr1common"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\simd\platform.h
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\cstdint"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\stdint.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\type_traits"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec3.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\compute_vector_relational.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\limits"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\cfloat"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\float.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\climits"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\limits.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\cwchar"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\cstdio"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\wchar.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memcpy_s.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\errno.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\vcruntime_string.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wconio.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wctype.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wdirect.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wio.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_share.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wprocess.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdlib.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstring.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wtime.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\sys\stat.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\sys\types.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\intrin0.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\intrin0.inl.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool3_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float3.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float3_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double3.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double3_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int3.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int3_sized.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\ext\scalar_int_sized.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint3.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint3_sized.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\ext\scalar_uint_sized.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: FigvShader.h
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\string"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xstring"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\__msvc_sanitizer_annotate_container.hpp"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\__msvc_string_view.hpp"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\iosfwd"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\yvals.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\crtdbg.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\vcruntime_new_debug.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\vcruntime_new.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\crtdefs.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\use_ansi.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\cstring"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\string.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memory.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xutility"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\__msvc_iter_core.hpp"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\utility"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\initializer_list"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\compare"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\concepts"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\cstdlib"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\math.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_math.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdlib.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_malloc.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_search.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xmemory"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\new"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\exception"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\malloc.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\vcruntime_exception.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\eh.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_terminate.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xatomic.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\tuple"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xpolymorphic_allocator.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\cctype"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\ctype.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\glm.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\_fixes.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\cmath"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\cassert"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\fwd.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\vec2.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool2.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_vec2.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec2.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool2_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float2.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float2_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double2.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double2_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int2.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int2_sized.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint2.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint2_sized.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\vec4.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool4.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_vec4.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec4.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool4_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float4.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float4_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double4.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double4_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int4.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int4_sized.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint4.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint4_sized.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat2x2.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x2.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat2x2.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat2x2.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\matrix.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat2x3.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x3.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat2x3.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat2x3.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x3_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x3.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x3_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat2x4.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x4.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat2x4.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat2x4.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x4_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x4.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x4_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat3x2.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x2.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat3x2.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat3x2.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x2_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x2.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x2_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat3x3.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x3.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat3x3.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat3x3.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x3_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x3.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x3_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat3x4.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x4.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat3x4.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat3x4.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x4_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x4.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x4_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat4x2.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x2.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat4x2.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat4x2.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x2_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x2.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x2_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat4x3.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x3.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat4x3.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat4x3.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x3_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x3.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x3_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat4x4.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x4.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat4x4.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat4x4.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x4_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x4.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x4_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_matrix.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\geometric.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_geometric.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\exponential.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec1.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec1.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_exponential.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\vector_relational.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_vector_relational.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\_vectorize.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\cassert"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\common.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\_fixes.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_common.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\compute_common.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x2_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x2.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x2_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\trigonometric.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_trigonometric.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\packing.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_packing.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_half.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_half.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\integer.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_integer.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\intrin.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\setjmp.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\immintrin.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\wmmintrin.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\nmmintrin.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\smmintrin.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\tmmintrin.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\pmmintrin.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\emmintrin.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xmmintrin.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\mmintrin.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\zmmintrin.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\ammintrin.h"
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\type_ptr.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\gtc\quaternion.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\gtc\constants.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\scalar_constants.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\scalar_constants.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\constants.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\gtc\matrix_transform.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\matrix_projection.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\matrix_projection.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\matrix_clip_space.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\matrix_clip_space.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\matrix_transform.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\matrix_transform.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\matrix_transform.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_relational.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\vector_relational.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_float.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\quaternion_common.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\ext\quaternion_geometric.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\quaternion_geometric.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\quaternion_common.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\quaternion_float.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_quat.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\ext\quaternion_relational.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\quaternion_relational.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_quat.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\quaternion_float_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\quaternion_double.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\quaternion_double_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\quaternion_trigonometric.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\quaternion_trigonometric.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\quaternion_transform.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\quaternion_transform.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\quaternion.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\epsilon.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\epsilon.inl
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\gtc\vec1.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_bool1.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_bool1_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_float1.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_float1_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_double1.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_double1_precision.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_int1.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_int1_sized.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_uint1.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_uint1_sized.hpp
+CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\type_ptr.inl
+
+
 CMakeFiles\FIGV.dir\FigvMaterial.cpp.obj: FigvMaterial.cpp
 CMakeFiles\FIGV.dir\FigvMaterial.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdio.h"
 CMakeFiles\FIGV.dir\FigvMaterial.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt.h"
@@ -1435,6 +1733,7 @@ CMakeFiles\FIGV.dir\FigvRenderer.cpp.obj: C:\src\vcpkg\installed\x64-windows\inc
 CMakeFiles\FIGV.dir\FigvRenderer.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\metadata.h
 CMakeFiles\FIGV.dir\FigvRenderer.cpp.obj: FigvMesh.h
 CMakeFiles\FIGV.dir\FigvRenderer.cpp.obj: FigvMaterial.h
+CMakeFiles\FIGV.dir\FigvRenderer.cpp.obj: FigvLightSource.h
 
 
 CMakeFiles\FIGV.dir\FigvScene.cpp.obj: FigvScene.cpp
@@ -1726,6 +2025,7 @@ CMakeFiles\FIGV.dir\FigvScene.cpp.obj: C:\src\vcpkg\installed\x64-windows\includ
 CMakeFiles\FIGV.dir\FigvScene.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\metadata.h
 CMakeFiles\FIGV.dir\FigvScene.cpp.obj: FigvMesh.h
 CMakeFiles\FIGV.dir\FigvScene.cpp.obj: FigvMaterial.h
+CMakeFiles\FIGV.dir\FigvScene.cpp.obj: FigvLightSource.h
 CMakeFiles\FIGV.dir\FigvScene.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\type_ptr.hpp
 CMakeFiles\FIGV.dir\FigvScene.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\gtc\quaternion.hpp
 CMakeFiles\FIGV.dir\FigvScene.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\gtc\constants.hpp
@@ -2414,6 +2714,7 @@ CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-window
 CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\metadata.h
 CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: FigvMesh.h
 CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: FigvMaterial.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: FigvLightSource.h
 CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: FigvRenderer.h
 CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: FigvEventManager.h
 
@@ -2744,6 +3045,7 @@ CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows
 CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\metadata.h
 CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: FigvMesh.h
 CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: FigvMaterial.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: FigvLightSource.h
 
 
 CMakeFiles\FIGV.dir\glad.c.obj: glad.c
@@ -3985,6 +4287,7 @@ CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\ass
 CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\metadata.h
 CMakeFiles\FIGV.dir\main.cpp.obj: FigvMesh.h
 CMakeFiles\FIGV.dir\main.cpp.obj: FigvMaterial.h
+CMakeFiles\FIGV.dir\main.cpp.obj: FigvLightSource.h
 CMakeFiles\FIGV.dir\main.cpp.obj: FigvAuxiliaryFunctions.h
 CMakeFiles\FIGV.dir\main.cpp.obj: FigvUserInterface.h
 CMakeFiles\FIGV.dir\main.cpp.obj: FigvRenderer.h
@@ -4150,9 +4453,9 @@ C:\src\vcpkg\installed\x64-windows\include\assimp\metadata.h:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\iterator":
 
-"C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\intrin0.h":
-
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winsmcrd.h":
+
+"C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\intrin0.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\common.hpp:
 
@@ -4716,11 +5019,11 @@ C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x4_precision.h
 
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_matrix.inl:
 
+C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\mat4x4.hpp:
+
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\matrix_clip_space.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\geometric.hpp:
-
-C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\mat4x4.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\matrix_clip_space.inl:
 
@@ -4780,21 +5083,29 @@ C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_bool1.hpp:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\__msvc_filebuf.hpp":
 
-C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\gtc\quaternion.hpp:
+FigvLightSource.cpp:
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\shellapi.h":
+FigvLightSource.h:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\gtc\matrix_transform.hpp:
+C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_float1.hpp:
+
+C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_vec3.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\qualifier.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\compute_vector_relational.hpp:
 
+C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_float1_precision.hpp:
+
+FigvShader.h:
+
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\matrix.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_float1.hpp:
+C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\gtc\quaternion.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_vec3.hpp:
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\shellapi.h":
+
+C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\gtc\matrix_transform.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\matrix_clip_space.hpp:
 
@@ -4827,10 +5138,6 @@ C:\src\vcpkg\installed\x64-windows\include\glm\ext\quaternion_trigonometric.inl:
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\gtc\vec1.hpp:
 
 imgui\imconfig.h:
-
-FigvShader.h:
-
-C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_float1_precision.hpp:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\debugapi.h":
 
