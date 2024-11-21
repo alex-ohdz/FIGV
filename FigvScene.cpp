@@ -22,6 +22,8 @@ FigvScene::FigvScene() {
     camera = new FigvCamera();
     models = std::vector<FigvModel>();
     
+
+
     // FIGV SCE: 7
     glm::mat4 T;
     glm::mat4 R;
@@ -96,6 +98,23 @@ model.draw(shader);
 }
 }
 
+int FigvScene::scissorX = 0;
+int FigvScene::scissorY = 0;
+int FigvScene::scissorWidth = 0;
+int FigvScene::scissorHeight = 0;
+
+void FigvScene::getScissorArea(int& x, int& y, int& width, int& height) {
+    x = scissorX;
+    y = scissorY;
+    width = scissorWidth;
+    height = scissorHeight;
+}
+void FigvScene::setScissorArea(int x, int y, int width, int height) {
+    scissorX = x;
+    scissorY = y;
+    scissorWidth = width;
+    scissorHeight = height;
+}
 void FigvScene::setFrameSize(int width, int height) {
 
     FigvScene::getInstance()->camera->setAspect(width, height);

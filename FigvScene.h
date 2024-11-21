@@ -64,7 +64,8 @@ public:
     /// Accede al índice del modelo 3D activo, el que se renderiza.
     ///
     /// @see FigvScene::modelActive
-    
+    static void setScissorArea(int x, int y, int width, int height);
+    static void getScissorArea(int& x, int& y, int& width, int& height);
     
     // FIGV SCE: 9
     
@@ -98,7 +99,12 @@ private:
     /// Modelos 3D cargados listos para ser renderizados. En esta aplicación
     /// inicial se cargan tres modelos.
     std::vector<FigvModel> models;
+
     
+    static int scissorX;
+    static int scissorY;
+    static int scissorWidth;
+    static int scissorHeight;
     // FIGV SCE: 11
     /// Indica cual de los modelos cargados está activo. Solo el activo se
     /// dibuja.

@@ -15,7 +15,6 @@
 #include "FigvUserInterface.h"
 #include "FigvRenderer.h"
 #include "FigvEventManager.h"
-
 // Callbacks que se registran para ser llamados cuando ocurran eventos en la
 // ventana principal de la aplicación.
 // Deben ser funciones (no métodos de clases). Todos ellos delegan en otras
@@ -34,7 +33,20 @@ void cursorPosCallback(GLFWwindow* window, double xPos, double yPos) {
 }
 
 void framebufferSizeCallback(GLFWwindow* window, int width, int height) {
+    
     FigvScene::setFrameSize(width, height);
+
+    // Recalcular las variables del área SCISSOR
+    int scissorX = width / 4;         // Un cuarto del ancho como offset X
+    int scissorY = height / 4;        // Un cuarto de la altura como offset Y
+    int scissorWidth = width / 2;     // La mitad del ancho
+    int scissorHeight = height / 2;   // La mitad de la altura
+
+    FigvScene::setScissorArea(scissorX, scissorY, scissorWidth, scissorHeight);
+    
+
+    // Ajustar el viewport al tamaño completo
+    glViewport(0, 0, width, height);
 }
 
 /// @file
@@ -69,6 +81,8 @@ int main() {
     //   en cada paso por el ciclo de eventos se atienden los eventos que haya
     //   pendientes y se redibuja la escena.
     //   El ciclo termina cuando se cierra la ventana de la aplicación.
+
+    // glEnable(GL_SCISSOR_TEST);
     
     while (!windowSystem->getWindowShouldClose()) {
 

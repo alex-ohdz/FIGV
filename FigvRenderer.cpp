@@ -64,8 +64,16 @@ void FigvRenderer::render() {
     }else{
         glPolygonMode(GL_FRONT_AND_BACK,GL_FILL);
     }
-    
-    // FIGV RND: 1
-    // glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
+    glEnable(GL_SCISSOR_TEST);
+
+    // Obtener las dimensiones SCISSOR desde FigvScene
+    int scissorX, scissorY, scissorWidth, scissorHeight;
+    FigvScene::getScissorArea(scissorX, scissorY, scissorWidth, scissorHeight);
+    glScissor(scissorX, scissorY, scissorWidth, scissorHeight);
+
+    // Dibujar la escena
     FigvScene::drawScene(*shader);
+
+    // Desactivar el Test SCISSOR
+    glDisable(GL_SCISSOR_TEST);
 }

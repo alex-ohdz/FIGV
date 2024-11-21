@@ -4593,6 +4593,38 @@ CMakeFiles\FIGV.dir\main.cpp.obj: FigvAuxiliaryFunctions.h
 CMakeFiles\FIGV.dir\main.cpp.obj: FigvUserInterface.h
 CMakeFiles\FIGV.dir\main.cpp.obj: FigvRenderer.h
 CMakeFiles\FIGV.dir\main.cpp.obj: FigvEventManager.h
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\iostream"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\istream"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\__msvc_ostream.hpp"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\ios"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xlocnum"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\iterator"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\streambuf"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xiosbase"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\share.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\system_error"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\__msvc_system_error_abi.hpp"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\cerrno"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\stdexcept"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xcall_once.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xerrc.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\atomic"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xatomic_wait.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xthreads.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\__msvc_threads_core.hpp"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xtimec.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\ctime"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\time.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xlocale"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\memory"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\typeinfo"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\vcruntime_typeinfo.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xfacet"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\xlocinfo"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\__msvc_xlocinfo_types.hpp"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\clocale"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\locale.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.43.34604\include\ostream"
 
 
 
