@@ -34,7 +34,7 @@ void cursorPosCallback(GLFWwindow* window, double xPos, double yPos) {
 }
 
 void framebufferSizeCallback(GLFWwindow* window, int width, int height) {
-    // FigvScene::setFrameSize(width, height);
+    FigvScene::setFrameSize(width, height);
 }
 
 /// @file
