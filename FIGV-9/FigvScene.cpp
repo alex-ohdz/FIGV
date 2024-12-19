@@ -29,15 +29,15 @@ FigvScene::FigvScene() {
     glm::mat4 R;
     // FIGV 15
     R = glm::rotate(glm::mat4(1.0f), glm::radians(180.0f),glm::vec3(0.0, 1.0, 0.0));
-    models.push_back(Figv3DModel("./spot/spot_trg.obj", new FigvMaterial(64.0, glm::vec3(1.0, 0.75, 0.75),glm::vec3(1.0)),"./spot/spot_texture.png",R));
+    models.push_back(Figv3DModel("./models/spot/spot_trg.obj", new FigvMaterial(64.0, glm::vec3(1.0, 0.75, 0.75),glm::vec3(1.0)),"./models/spot/spot_texture.png",R));
    
     R = glm::rotate(glm::mat4(1.0f), glm::radians(90.0f), glm::vec3(0.0, 1.0, 0.0));
-    models.push_back(Figv3DModel("./bob/bob_trg.obj",new FigvMaterial(),"./bob/bob_diffuse.png",R));
-    models.push_back(Figv3DModel("./blub/blub_trg.obj", new FigvMaterial(256.0,glm::vec3(0.4, 0.6, 1.0), glm::vec3(1.0)), "./blub/blub_texture.png",glm::mat4(1.0)));
+    models.push_back(Figv3DModel("./models/bob/bob_trg.obj",new FigvMaterial(),"./models/bob/bob_diffuse.png",R));
+    models.push_back(Figv3DModel("./models/blub/blub_trg.obj", new FigvMaterial(256.0,glm::vec3(0.4, 0.6, 1.0), glm::vec3(1.0)), "./blub/blub_texture.png",glm::mat4(1.0)));
 
     R = glm::rotate(glm::mat4(1.0f), glm::radians(180.0f),glm::vec3(0.0, 1.0, 0.0));
-    models.push_back(Figv3DModel("./spot/spot_trg_2.obj", new FigvMaterial(64.0,glm::vec3(1.0, 0.75, 0.75), glm::vec3(1.0)), "./spot/spot_texture.png", R));
-    models.push_back(Figv3DModel("./blub/blub_trg_2.obj", new FigvMaterial(256.0,glm::vec3(0.4, 0.6, 1.0),glm::vec3(1.0)), "./blub/blub_texture.png", glm::mat4(1.0)));
+    models.push_back(Figv3DModel("./models/spot/spot_trg_2.obj", new FigvMaterial(64.0,glm::vec3(1.0, 0.75, 0.75), glm::vec3(1.0)), "./spot/spot_texture.png", R));
+    models.push_back(Figv3DModel("./models/blub/blub_trg_2.obj", new FigvMaterial(256.0,glm::vec3(0.4, 0.6, 1.0),glm::vec3(1.0)), "./models/blub/blub_texture.png", glm::mat4(1.0)));
     
     lightSource = new FigvLightSource();
 }
@@ -93,57 +93,6 @@ void FigvScene::setFrameSize(int width, int height) {
     getInstance()->camera->setAspect(width, height);
 }
 
-void cargarModelos(const std::string& path, float scale){
-    namespace fs=std::filesystem;
-
-    for (const auto& entry : fs::directory_iterator(path))
-    {
-        if (entry.is_directory())
-        {
-            std::string modelPath = entry.path().string()+ "/source/";
-            std::string objFile, textureFile;
-
-            for (const auto& file : fs::directory_iterator(modelPath))
-            {
-                std::string filePath = file.path().string();
-                if (filePath.size()>=4 && filePath.substr(filePath.size()-4) == ".obj")
-                {
-                    objFile=filePath;
-                }else if (filePath.size() >= 4 && (filePath.substr(filePath.size() - 4) == ".png" || filePath.substr(filePath.size() - 4) == ".jpg"))
-                {
-                    textureFile=filePath;
-                }
-                
-                
-            }
-            
-            //Si objeto y textura existen , se anade el modelo
-            if(!objFile.empty() && !textureFile.empty()){
-                glm::mat4 R = glm::scale(glm::mat4(1.0f),glm::vec3(scale));
-                models.push_back(Figv3DModel(objFile,new FigvMaterial(128.0f,glm::vec3(1.0f),glm::vec3(1.0f)),textureFile,R));
-                std::count<<"Modelo cargado:" << objFile << "con textura:" << textureFile << std::endl;
-            }
-        } 
-    } 
-}
-
-int FigvScene::getModelSelected() const {
-    return modelSelected;
-}
-
-void FigvScene::setModelSelected(int index) {
-    if (index >= 0 && index < models.size()) { // Verifica que el índice sea válido
-        modelSelected = index;
-    }
-}
-
-void scalaModelos(float scale){
-    if(modelSelected >=0 && modelSelected < models.size()){
-        // Escala la transformación del modelo seleccionado
-        models[modelSelected].setTransformation(glm::scale(models[modelSelected].getTransformation(), glm::vec3(scale)));
-    }
-}
-
 float* FigvScene::getIa3fp() {
     
     return glm::value_ptr(Ia);
@@ -171,7 +120,3 @@ void FigvScene::applyLightSources(FigvShader shader) {
     }
 }
 
-int* FigvScene::getModelSelectedip() {
-    
-    return &modelSelected;
-}

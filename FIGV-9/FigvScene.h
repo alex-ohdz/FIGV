@@ -37,17 +37,12 @@ public:
     static void drawScene(FigvShader shader);
     static void setFrameSize(int width, int height);
 
-    void cargarModelos(const std::string& path, float scale=1.0f);
-    int getModelSelected() const;           // Devuelve el índice del modelo seleccionado
-    void setModelSelected(int index);       // Cambia el modelo seleccionado
-    void scalaModelos(float scale);
 
     float* getIa3fp();
     FigvLightSource* getLightSource();
     int* getUseModelingLightip();
     static void applyLightSources(FigvShader shader);
 
-    int* getModelSelectedip();
     
 private:
     

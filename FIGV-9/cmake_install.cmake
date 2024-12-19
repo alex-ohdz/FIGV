@@ -1,4 +1,4 @@
-# Install script for directory: D:/Master Desarrollo de Software/Fundamentos de Informatica Grafica y Visualizacion/Ultimo FIGV/FIGV-9/FIGV-9
+# Install script for directory: C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,7 +35,7 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "D:/Master Desarrollo de Software/Fundamentos de Informatica Grafica y Visualizacion/Ultimo FIGV/FIGV-9/FIGV-9/install_local_manifest.txt"
+  file(WRITE "C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
 if(CMAKE_INSTALL_COMPONENT)
@@ -51,6 +51,6 @@ else()
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "D:/Master Desarrollo de Software/Fundamentos de Informatica Grafica y Visualizacion/Ultimo FIGV/FIGV-9/FIGV-9/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

@@ -42,10 +42,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9"
+CMAKE_SOURCE_DIR = C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9"
+CMAKE_BINARY_DIR = C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9
 
 # Include any dependencies generated for this target.
 include CMakeFiles\FIGV.dir\depend.make
@@ -64,441 +64,441 @@ CMakeFiles\FIGV.dir\codegen:
 CMakeFiles\FIGV.dir\Figv3DModel.cpp.obj: CMakeFiles\FIGV.dir\flags.make
 CMakeFiles\FIGV.dir\Figv3DModel.cpp.obj: Figv3DModel.cpp
 CMakeFiles\FIGV.dir\Figv3DModel.cpp.obj: CMakeFiles\FIGV.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/FIGV.dir/Figv3DModel.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\Figv3DModel.cpp.obj.d --working-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\Figv3DModel.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\Figv3DModel.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/FIGV.dir/Figv3DModel.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\Figv3DModel.cpp.obj.d --working-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\Figv3DModel.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\Figv3DModel.cpp
 <<
 
 CMakeFiles\FIGV.dir\Figv3DModel.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FIGV.dir/Figv3DModel.cpp.i"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\Figv3DModel.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\Figv3DModel.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\Figv3DModel.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\Figv3DModel.cpp
 <<
 
 CMakeFiles\FIGV.dir\Figv3DModel.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FIGV.dir/Figv3DModel.cpp.s"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\Figv3DModel.cpp.s /c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\Figv3DModel.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\Figv3DModel.cpp.s /c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\Figv3DModel.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvAuxiliaryFunctions.cpp.obj: CMakeFiles\FIGV.dir\flags.make
 CMakeFiles\FIGV.dir\FigvAuxiliaryFunctions.cpp.obj: FigvAuxiliaryFunctions.cpp
 CMakeFiles\FIGV.dir\FigvAuxiliaryFunctions.cpp.obj: CMakeFiles\FIGV.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/FIGV.dir/FigvAuxiliaryFunctions.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\FigvAuxiliaryFunctions.cpp.obj.d --working-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\FigvAuxiliaryFunctions.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvAuxiliaryFunctions.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/FIGV.dir/FigvAuxiliaryFunctions.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\FigvAuxiliaryFunctions.cpp.obj.d --working-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\FigvAuxiliaryFunctions.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvAuxiliaryFunctions.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvAuxiliaryFunctions.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FIGV.dir/FigvAuxiliaryFunctions.cpp.i"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\FigvAuxiliaryFunctions.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvAuxiliaryFunctions.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\FigvAuxiliaryFunctions.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvAuxiliaryFunctions.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvAuxiliaryFunctions.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FIGV.dir/FigvAuxiliaryFunctions.cpp.s"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\FigvAuxiliaryFunctions.cpp.s /c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvAuxiliaryFunctions.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\FigvAuxiliaryFunctions.cpp.s /c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvAuxiliaryFunctions.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvCamera.cpp.obj: CMakeFiles\FIGV.dir\flags.make
 CMakeFiles\FIGV.dir\FigvCamera.cpp.obj: FigvCamera.cpp
 CMakeFiles\FIGV.dir\FigvCamera.cpp.obj: CMakeFiles\FIGV.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/FIGV.dir/FigvCamera.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\FigvCamera.cpp.obj.d --working-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\FigvCamera.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvCamera.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/FIGV.dir/FigvCamera.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\FigvCamera.cpp.obj.d --working-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\FigvCamera.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvCamera.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvCamera.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FIGV.dir/FigvCamera.cpp.i"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\FigvCamera.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvCamera.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\FigvCamera.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvCamera.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvCamera.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FIGV.dir/FigvCamera.cpp.s"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\FigvCamera.cpp.s /c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvCamera.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\FigvCamera.cpp.s /c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvCamera.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: CMakeFiles\FIGV.dir\flags.make
 CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: FigvEventManager.cpp
 CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj: CMakeFiles\FIGV.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/FIGV.dir/FigvEventManager.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj.d --working-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\FigvEventManager.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvEventManager.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/FIGV.dir/FigvEventManager.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\FigvEventManager.cpp.obj.d --working-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\FigvEventManager.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvEventManager.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvEventManager.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FIGV.dir/FigvEventManager.cpp.i"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\FigvEventManager.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvEventManager.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\FigvEventManager.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvEventManager.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvEventManager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FIGV.dir/FigvEventManager.cpp.s"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\FigvEventManager.cpp.s /c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvEventManager.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\FigvEventManager.cpp.s /c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvEventManager.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: CMakeFiles\FIGV.dir\flags.make
 CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: FigvLightSource.cpp
 CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj: CMakeFiles\FIGV.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/FIGV.dir/FigvLightSource.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj.d --working-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\FigvLightSource.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvLightSource.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/FIGV.dir/FigvLightSource.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\FigvLightSource.cpp.obj.d --working-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\FigvLightSource.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvLightSource.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvLightSource.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FIGV.dir/FigvLightSource.cpp.i"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\FigvLightSource.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvLightSource.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\FigvLightSource.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvLightSource.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvLightSource.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FIGV.dir/FigvLightSource.cpp.s"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\FigvLightSource.cpp.s /c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvLightSource.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\FigvLightSource.cpp.s /c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvLightSource.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvMaterial.cpp.obj: CMakeFiles\FIGV.dir\flags.make
 CMakeFiles\FIGV.dir\FigvMaterial.cpp.obj: FigvMaterial.cpp
 CMakeFiles\FIGV.dir\FigvMaterial.cpp.obj: CMakeFiles\FIGV.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/FIGV.dir/FigvMaterial.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\FigvMaterial.cpp.obj.d --working-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\FigvMaterial.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvMaterial.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/FIGV.dir/FigvMaterial.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\FigvMaterial.cpp.obj.d --working-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\FigvMaterial.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvMaterial.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvMaterial.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FIGV.dir/FigvMaterial.cpp.i"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\FigvMaterial.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvMaterial.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\FigvMaterial.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvMaterial.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvMaterial.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FIGV.dir/FigvMaterial.cpp.s"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\FigvMaterial.cpp.s /c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvMaterial.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\FigvMaterial.cpp.s /c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvMaterial.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvMesh.cpp.obj: CMakeFiles\FIGV.dir\flags.make
 CMakeFiles\FIGV.dir\FigvMesh.cpp.obj: FigvMesh.cpp
 CMakeFiles\FIGV.dir\FigvMesh.cpp.obj: CMakeFiles\FIGV.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/FIGV.dir/FigvMesh.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\FigvMesh.cpp.obj.d --working-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\FigvMesh.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvMesh.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/FIGV.dir/FigvMesh.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\FigvMesh.cpp.obj.d --working-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\FigvMesh.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvMesh.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvMesh.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FIGV.dir/FigvMesh.cpp.i"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\FigvMesh.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvMesh.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\FigvMesh.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvMesh.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvMesh.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FIGV.dir/FigvMesh.cpp.s"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\FigvMesh.cpp.s /c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvMesh.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\FigvMesh.cpp.s /c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvMesh.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvRenderer.cpp.obj: CMakeFiles\FIGV.dir\flags.make
 CMakeFiles\FIGV.dir\FigvRenderer.cpp.obj: FigvRenderer.cpp
 CMakeFiles\FIGV.dir\FigvRenderer.cpp.obj: CMakeFiles\FIGV.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/FIGV.dir/FigvRenderer.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\FigvRenderer.cpp.obj.d --working-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\FigvRenderer.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvRenderer.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/FIGV.dir/FigvRenderer.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\FigvRenderer.cpp.obj.d --working-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\FigvRenderer.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvRenderer.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvRenderer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FIGV.dir/FigvRenderer.cpp.i"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\FigvRenderer.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvRenderer.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\FigvRenderer.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvRenderer.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvRenderer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FIGV.dir/FigvRenderer.cpp.s"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\FigvRenderer.cpp.s /c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvRenderer.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\FigvRenderer.cpp.s /c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvRenderer.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvScene.cpp.obj: CMakeFiles\FIGV.dir\flags.make
 CMakeFiles\FIGV.dir\FigvScene.cpp.obj: FigvScene.cpp
 CMakeFiles\FIGV.dir\FigvScene.cpp.obj: CMakeFiles\FIGV.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/FIGV.dir/FigvScene.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\FigvScene.cpp.obj.d --working-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\FigvScene.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvScene.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/FIGV.dir/FigvScene.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\FigvScene.cpp.obj.d --working-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\FigvScene.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvScene.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvScene.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FIGV.dir/FigvScene.cpp.i"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\FigvScene.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvScene.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\FigvScene.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvScene.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvScene.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FIGV.dir/FigvScene.cpp.s"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\FigvScene.cpp.s /c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvScene.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\FigvScene.cpp.s /c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvScene.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvShader.cpp.obj: CMakeFiles\FIGV.dir\flags.make
 CMakeFiles\FIGV.dir\FigvShader.cpp.obj: FigvShader.cpp
 CMakeFiles\FIGV.dir\FigvShader.cpp.obj: CMakeFiles\FIGV.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/FIGV.dir/FigvShader.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\FigvShader.cpp.obj.d --working-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\FigvShader.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvShader.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/FIGV.dir/FigvShader.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\FigvShader.cpp.obj.d --working-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\FigvShader.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvShader.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvShader.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FIGV.dir/FigvShader.cpp.i"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\FigvShader.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvShader.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\FigvShader.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvShader.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvShader.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FIGV.dir/FigvShader.cpp.s"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\FigvShader.cpp.s /c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvShader.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\FigvShader.cpp.s /c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvShader.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvTexture.cpp.obj: CMakeFiles\FIGV.dir\flags.make
 CMakeFiles\FIGV.dir\FigvTexture.cpp.obj: FigvTexture.cpp
 CMakeFiles\FIGV.dir\FigvTexture.cpp.obj: CMakeFiles\FIGV.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/FIGV.dir/FigvTexture.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\FigvTexture.cpp.obj.d --working-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\FigvTexture.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvTexture.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/FIGV.dir/FigvTexture.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\FigvTexture.cpp.obj.d --working-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\FigvTexture.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvTexture.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvTexture.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FIGV.dir/FigvTexture.cpp.i"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\FigvTexture.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvTexture.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\FigvTexture.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvTexture.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvTexture.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FIGV.dir/FigvTexture.cpp.s"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\FigvTexture.cpp.s /c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvTexture.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\FigvTexture.cpp.s /c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvTexture.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: CMakeFiles\FIGV.dir\flags.make
 CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: FigvUserInterface.cpp
 CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: CMakeFiles\FIGV.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/FIGV.dir/FigvUserInterface.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj.d --working-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvUserInterface.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/FIGV.dir/FigvUserInterface.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj.d --working-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvUserInterface.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvUserInterface.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FIGV.dir/FigvUserInterface.cpp.i"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\FigvUserInterface.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvUserInterface.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\FigvUserInterface.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvUserInterface.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvUserInterface.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FIGV.dir/FigvUserInterface.cpp.s"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\FigvUserInterface.cpp.s /c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvUserInterface.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\FigvUserInterface.cpp.s /c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvUserInterface.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: CMakeFiles\FIGV.dir\flags.make
 CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: FigvWindowSystem.cpp
 CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: CMakeFiles\FIGV.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/FIGV.dir/FigvWindowSystem.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj.d --working-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvWindowSystem.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/FIGV.dir/FigvWindowSystem.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj.d --working-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvWindowSystem.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FIGV.dir/FigvWindowSystem.cpp.i"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvWindowSystem.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvWindowSystem.cpp
 <<
 
 CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FIGV.dir/FigvWindowSystem.cpp.s"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\FigvWindowSystem.cpp.s /c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FigvWindowSystem.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\FigvWindowSystem.cpp.s /c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvWindowSystem.cpp
 <<
 
 CMakeFiles\FIGV.dir\glad.c.obj: CMakeFiles\FIGV.dir\flags.make
 CMakeFiles\FIGV.dir\glad.c.obj: glad.c
 CMakeFiles\FIGV.dir\glad.c.obj: CMakeFiles\FIGV.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/FIGV.dir/glad.c.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\glad.c.obj.d --working-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\glad.c.obj /FdCMakeFiles\FIGV.dir\ /FS -c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\glad.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/FIGV.dir/glad.c.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\glad.c.obj.d --working-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\glad.c.obj /FdCMakeFiles\FIGV.dir\ /FS -c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\glad.c
 <<
 
 CMakeFiles\FIGV.dir\glad.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/FIGV.dir/glad.c.i"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\glad.c.i @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\glad.c"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\glad.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\glad.c
 <<
 
 CMakeFiles\FIGV.dir\glad.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/FIGV.dir/glad.c.s"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\glad.c.s /c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\glad.c"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\glad.c.s /c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\glad.c
 <<
 
 CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: CMakeFiles\FIGV.dir\flags.make
 CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: imgui\backends\imgui_impl_glfw.cpp
 CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: CMakeFiles\FIGV.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/FIGV.dir/imgui/backends/imgui_impl_glfw.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj.d --working-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\imgui\backends\imgui_impl_glfw.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/FIGV.dir/imgui/backends/imgui_impl_glfw.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj.d --working-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\backends\imgui_impl_glfw.cpp
 <<
 
 CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FIGV.dir/imgui/backends/imgui_impl_glfw.cpp.i"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\imgui\backends\imgui_impl_glfw.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\backends\imgui_impl_glfw.cpp
 <<
 
 CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FIGV.dir/imgui/backends/imgui_impl_glfw.cpp.s"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.s /c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\imgui\backends\imgui_impl_glfw.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.s /c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\backends\imgui_impl_glfw.cpp
 <<
 
 CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: CMakeFiles\FIGV.dir\flags.make
 CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: imgui\backends\imgui_impl_opengl3.cpp
 CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: CMakeFiles\FIGV.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/FIGV.dir/imgui/backends/imgui_impl_opengl3.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj.d --working-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\imgui\backends\imgui_impl_opengl3.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/FIGV.dir/imgui/backends/imgui_impl_opengl3.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj.d --working-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\backends\imgui_impl_opengl3.cpp
 <<
 
 CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FIGV.dir/imgui/backends/imgui_impl_opengl3.cpp.i"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\imgui\backends\imgui_impl_opengl3.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\backends\imgui_impl_opengl3.cpp
 <<
 
 CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FIGV.dir/imgui/backends/imgui_impl_opengl3.cpp.s"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.s /c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\imgui\backends\imgui_impl_opengl3.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.s /c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\backends\imgui_impl_opengl3.cpp
 <<
 
 CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: CMakeFiles\FIGV.dir\flags.make
 CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: imgui\imgui.cpp
 CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: CMakeFiles\FIGV.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/FIGV.dir/imgui/imgui.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj.d --working-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\imgui\imgui.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\imgui\imgui.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/FIGV.dir/imgui/imgui.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj.d --working-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\imgui\imgui.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\imgui.cpp
 <<
 
 CMakeFiles\FIGV.dir\imgui\imgui.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FIGV.dir/imgui/imgui.cpp.i"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\imgui\imgui.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\imgui\imgui.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\imgui\imgui.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\imgui.cpp
 <<
 
 CMakeFiles\FIGV.dir\imgui\imgui.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FIGV.dir/imgui/imgui.cpp.s"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\imgui\imgui.cpp.s /c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\imgui\imgui.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\imgui\imgui.cpp.s /c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\imgui.cpp
 <<
 
 CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: CMakeFiles\FIGV.dir\flags.make
 CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: imgui\imgui_demo.cpp
 CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: CMakeFiles\FIGV.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/FIGV.dir/imgui/imgui_demo.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj.d --working-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\imgui\imgui_demo.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/FIGV.dir/imgui/imgui_demo.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj.d --working-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\imgui_demo.cpp
 <<
 
 CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FIGV.dir/imgui/imgui_demo.cpp.i"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\imgui\imgui_demo.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\imgui_demo.cpp
 <<
 
 CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FIGV.dir/imgui/imgui_demo.cpp.s"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.s /c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\imgui\imgui_demo.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.s /c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\imgui_demo.cpp
 <<
 
 CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: CMakeFiles\FIGV.dir\flags.make
 CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: imgui\imgui_draw.cpp
 CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: CMakeFiles\FIGV.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/FIGV.dir/imgui/imgui_draw.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj.d --working-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\imgui\imgui_draw.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/FIGV.dir/imgui/imgui_draw.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj.d --working-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\imgui_draw.cpp
 <<
 
 CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FIGV.dir/imgui/imgui_draw.cpp.i"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\imgui\imgui_draw.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\imgui_draw.cpp
 <<
 
 CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FIGV.dir/imgui/imgui_draw.cpp.s"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.s /c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\imgui\imgui_draw.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.s /c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\imgui_draw.cpp
 <<
 
 CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: CMakeFiles\FIGV.dir\flags.make
 CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: imgui\imgui_tables.cpp
 CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: CMakeFiles\FIGV.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/FIGV.dir/imgui/imgui_tables.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj.d --working-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\imgui\imgui_tables.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/FIGV.dir/imgui/imgui_tables.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj.d --working-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\imgui_tables.cpp
 <<
 
 CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FIGV.dir/imgui/imgui_tables.cpp.i"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\imgui\imgui_tables.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\imgui_tables.cpp
 <<
 
 CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FIGV.dir/imgui/imgui_tables.cpp.s"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.s /c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\imgui\imgui_tables.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.s /c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\imgui_tables.cpp
 <<
 
 CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: CMakeFiles\FIGV.dir\flags.make
 CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: imgui\imgui_widgets.cpp
 CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: CMakeFiles\FIGV.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/FIGV.dir/imgui/imgui_widgets.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj.d --working-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\imgui\imgui_widgets.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/FIGV.dir/imgui/imgui_widgets.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj.d --working-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\imgui_widgets.cpp
 <<
 
 CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FIGV.dir/imgui/imgui_widgets.cpp.i"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\imgui\imgui_widgets.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\imgui_widgets.cpp
 <<
 
 CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FIGV.dir/imgui/imgui_widgets.cpp.s"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.s /c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\imgui\imgui_widgets.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.s /c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\imgui_widgets.cpp
 <<
 
 CMakeFiles\FIGV.dir\main.cpp.obj: CMakeFiles\FIGV.dir\flags.make
 CMakeFiles\FIGV.dir\main.cpp.obj: main.cpp
 CMakeFiles\FIGV.dir\main.cpp.obj: CMakeFiles\FIGV.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/FIGV.dir/main.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\main.cpp.obj.d --working-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\main.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/FIGV.dir/main.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\main.cpp.obj.d --working-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\main.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\main.cpp
 <<
 
 CMakeFiles\FIGV.dir\main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FIGV.dir/main.cpp.i"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\main.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\main.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\main.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\main.cpp
 <<
 
 CMakeFiles\FIGV.dir\main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FIGV.dir/main.cpp.s"
-	C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\main.cpp.s /c "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\main.cpp"
+	C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\main.cpp.s /c C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\main.cpp
 <<
 
 # Object files for target FIGV
@@ -555,9 +555,9 @@ FIGV.exe: CMakeFiles\FIGV.dir\build.make
 FIGV.exe: C:\src\vcpkg\installed\x64-windows\debug\lib\glfw3dll.lib
 FIGV.exe: C:\src\vcpkg\installed\x64-windows\debug\lib\assimp-vc143-mtd.lib
 FIGV.exe: CMakeFiles\FIGV.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_23) "Linking CXX executable FIGV.exe"
-	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --msvc-ver=1943 --intdir=CMakeFiles\FIGV.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\mt.exe --manifests -- C:\PROGRA~1\MICROS~2\2022\Preview\VC\Tools\MSVC\1443~1.346\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\FIGV.dir\objects1.rsp @<<
- /out:FIGV.exe /implib:FIGV.lib /pdb:"D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\FIGV.pdb" /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console  opengl32.lib C:\src\vcpkg\installed\x64-windows\debug\lib\glfw3dll.lib C:\src\vcpkg\installed\x64-windows\debug\lib\assimp-vc143-mtd.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking CXX executable FIGV.exe"
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\FIGV.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\mt.exe --manifests -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1442~1.344\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\FIGV.dir\objects1.rsp @<<
+ /out:FIGV.exe /implib:FIGV.lib /pdb:C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FIGV.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console  opengl32.lib C:\src\vcpkg\installed\x64-windows\debug\lib\glfw3dll.lib C:\src\vcpkg\installed\x64-windows\debug\lib\assimp-vc143-mtd.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<
 
 # Rule to build all files generated by this target.
@@ -569,6 +569,6 @@ CMakeFiles\FIGV.dir\clean:
 .PHONY : CMakeFiles\FIGV.dir\clean
 
 CMakeFiles\FIGV.dir\depend:
-	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9" "D:\Master Desarrollo de Software\Fundamentos de Informatica Grafica y Visualizacion\Ultimo FIGV\FIGV-9\FIGV-9\CMakeFiles\FIGV.dir\DependInfo.cmake" "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9 C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\CMakeFiles\FIGV.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles\FIGV.dir\depend
 

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\Figv3DModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvAuxiliaryFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvCamera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvEventManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvLightSource.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvMaterial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvScene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvShader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvTexture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvUserInterface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\FigvWindowSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\backends\imgui_impl_glfw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\backends\imgui_impl_opengl3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\imgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\imgui_demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\imgui_draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\imgui_tables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\imgui\imgui_widgets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Alej\Desktop\ArchivoActual\Ive\FIGV-9\FIGV-9\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AA4A3A71-27F8-38B0-BE7D-DD5618685B8F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

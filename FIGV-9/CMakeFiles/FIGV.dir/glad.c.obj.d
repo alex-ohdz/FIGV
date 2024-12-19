@@ -1,9 +1,9 @@
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/ucrt/stdio.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/ucrt/corecrt.h
-C:/Program Files/Microsoft Visual Studio/2022/Preview/VC/Tools/MSVC/14.43.34604/include/vcruntime.h
-C:/Program Files/Microsoft Visual Studio/2022/Preview/VC/Tools/MSVC/14.43.34604/include/sal.h
-C:/Program Files/Microsoft Visual Studio/2022/Preview/VC/Tools/MSVC/14.43.34604/include/concurrencysal.h
-C:/Program Files/Microsoft Visual Studio/2022/Preview/VC/Tools/MSVC/14.43.34604/include/vadefs.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.42.34433/include/vcruntime.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.42.34433/include/sal.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.42.34433/include/concurrencysal.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.42.34433/include/vadefs.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/ucrt/corecrt_wstdio.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/ucrt/corecrt_stdio_config.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/ucrt/stdlib.h
@@ -11,12 +11,12 @@ C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/ucrt/corecrt_malloc.
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/ucrt/corecrt_search.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/ucrt/stddef.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/ucrt/corecrt_wstdlib.h
-C:/Program Files/Microsoft Visual Studio/2022/Preview/VC/Tools/MSVC/14.43.34604/include/limits.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.42.34433/include/limits.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/ucrt/string.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/ucrt/corecrt_memory.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/ucrt/corecrt_memcpy_s.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/ucrt/errno.h
-C:/Program Files/Microsoft Visual Studio/2022/Preview/VC/Tools/MSVC/14.43.34604/include/vcruntime_string.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.42.34433/include/vcruntime_string.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/ucrt/corecrt_wstring.h
 C:/src/glad/include/glad/glad.h
 C:/src/glad/include/KHR/khrplatform.h
@@ -24,8 +24,8 @@ C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/um/windows.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/shared/winapifamily.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/shared/winpackagefamily.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/shared/sdkddkver.h
-C:/Program Files/Microsoft Visual Studio/2022/Preview/VC/Tools/MSVC/14.43.34604/include/excpt.h
-C:/Program Files/Microsoft Visual Studio/2022/Preview/VC/Tools/MSVC/14.43.34604/include/stdarg.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.42.34433/include/excpt.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.42.34433/include/stdarg.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/shared/windef.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/shared/minwindef.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/shared/specstrings.h

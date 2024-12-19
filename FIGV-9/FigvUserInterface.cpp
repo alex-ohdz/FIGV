@@ -164,7 +164,7 @@ void FigvUserInterface::preparePalettes() {
     }
 
     ImGui::SeparatorText("Models properties");
-    ImGui::Combo("Model", FigvScene::getInstance()->getModelSelectedip(), modelList, IM_ARRAYSIZE(modelList));
+    // ImGui::Combo("Model", FigvScene::getInstance()->getModelSelectedip(), modelList, IM_ARRAYSIZE(modelList));
     
     ImGui::SeparatorText("Light source properties");
     ImGui::RadioButton("Scene lights", FigvScene::getInstance()->getUseModelingLightip(), 0); ImGui::SameLine();
