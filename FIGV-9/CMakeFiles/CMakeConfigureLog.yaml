@@ -109,8 +109,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-wbi3se"
-      binary: "C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-wbi3se"
+      source: "C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-x2gpog"
+      binary: "C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-x2gpog"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -119,28 +119,28 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-wbi3se'
+        Change Dir: 'C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-x2gpog'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 nmake -f Makefile /nologo cmTC_bbfef\\fast
-        	"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\cmTC_bbfef.dir\\build.make /nologo -L                  CMakeFiles\\cmTC_bbfef.dir\\build
-        Building C object CMakeFiles/cmTC_bbfef.dir/CMakeCCompilerABI.c.obj
-        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\\cmTC_bbfef.dir\\CMakeCCompilerABI.c.obj.d --working-dir=C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-wbi3se --filter-prefix="Nota: inclusi¾n del archivo: " -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe @C:\\Users\\Alej\\AppData\\Local\\Temp\\nm96F9.tmp
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 nmake -f Makefile /nologo cmTC_3fc90\\fast
+        	"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\cmTC_3fc90.dir\\build.make /nologo -L                  CMakeFiles\\cmTC_3fc90.dir\\build
+        Building C object CMakeFiles/cmTC_3fc90.dir/CMakeCCompilerABI.c.obj
+        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\\cmTC_3fc90.dir\\CMakeCCompilerABI.c.obj.d --working-dir=C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-x2gpog --filter-prefix="Nota: inclusi¾n del archivo: " -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe @C:\\Users\\Alej\\AppData\\Local\\Temp\\nmFA85.tmp
         CMakeCCompilerABI.c
-        Linking C executable cmTC_bbfef.exe
-        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_bbfef.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_bbfef.dir\\objects1.rsp @C:\\Users\\Alej\\AppData\\Local\\Temp\\nm98FD.tmp
+        Linking C executable cmTC_3fc90.exe
+        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_3fc90.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_3fc90.dir\\objects1.rsp @C:\\Users\\Alej\\AppData\\Local\\Temp\\nmFC5A.tmp
         Visual Studio Incremental Link with embedded manifests
-        Create CMakeFiles\\cmTC_bbfef.dir/manifest.rc
-        Create empty: CMakeFiles\\cmTC_bbfef.dir/embed.manifest
+        Create CMakeFiles\\cmTC_3fc90.dir/manifest.rc
+        Create empty: CMakeFiles\\cmTC_3fc90.dir/embed.manifest
         RC Pass 1:
-        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe /fo CMakeFiles\\cmTC_bbfef.dir/manifest.res CMakeFiles\\cmTC_bbfef.dir/manifest.rc
+        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe /fo CMakeFiles\\cmTC_3fc90.dir/manifest.res CMakeFiles\\cmTC_3fc90.dir/manifest.rc
         LINK Pass 1:
-        C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_bbfef.dir\\objects1.rsp /out:cmTC_bbfef.exe /implib:cmTC_bbfef.lib /pdb:C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-wbi3se\\cmTC_bbfef.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_bbfef.dir/intermediate.manifest CMakeFiles\\cmTC_bbfef.dir/manifest.res
+        C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_3fc90.dir\\objects1.rsp /out:cmTC_3fc90.exe /implib:cmTC_3fc90.lib /pdb:C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-x2gpog\\cmTC_3fc90.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_3fc90.dir/intermediate.manifest CMakeFiles\\cmTC_3fc90.dir/manifest.res
         MT:
-        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe /nologo /manifest CMakeFiles\\cmTC_bbfef.dir/intermediate.manifest /out:CMakeFiles\\cmTC_bbfef.dir/embed.manifest /notify_update
+        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe /nologo /manifest CMakeFiles\\cmTC_3fc90.dir/intermediate.manifest /out:CMakeFiles\\cmTC_3fc90.dir/embed.manifest /notify_update
         RC Pass 2:
-        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe /fo CMakeFiles\\cmTC_bbfef.dir/manifest.res CMakeFiles\\cmTC_bbfef.dir/manifest.rc
+        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe /fo CMakeFiles\\cmTC_3fc90.dir/manifest.res CMakeFiles\\cmTC_3fc90.dir/manifest.rc
         FINAL LINK:
-        C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_bbfef.dir\\objects1.rsp /out:cmTC_bbfef.exe /implib:cmTC_bbfef.lib /pdb:C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-wbi3se\\cmTC_bbfef.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_bbfef.dir/intermediate.manifest CMakeFiles\\cmTC_bbfef.dir/manifest.res
+        C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_3fc90.dir\\objects1.rsp /out:cmTC_3fc90.exe /implib:cmTC_3fc90.lib /pdb:C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-x2gpog\\cmTC_3fc90.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_3fc90.dir/intermediate.manifest CMakeFiles\\cmTC_3fc90.dir/manifest.res
         
       exitCode: 0
   -
@@ -180,8 +180,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-g8k2hr"
-      binary: "C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-g8k2hr"
+      source: "C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-vprfrn"
+      binary: "C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-vprfrn"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -191,28 +191,28 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-g8k2hr'
+        Change Dir: 'C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-vprfrn'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 nmake -f Makefile /nologo cmTC_8e497\\fast
-        	"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\cmTC_8e497.dir\\build.make /nologo -L                  CMakeFiles\\cmTC_8e497.dir\\build
-        Building CXX object CMakeFiles/cmTC_8e497.dir/CMakeCXXCompilerABI.cpp.obj
-        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\\cmTC_8e497.dir\\CMakeCXXCompilerABI.cpp.obj.d --working-dir=C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-g8k2hr --filter-prefix="Nota: inclusi¾n del archivo: " -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe @C:\\Users\\Alej\\AppData\\Local\\Temp\\nm9D61.tmp
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 nmake -f Makefile /nologo cmTC_2e6c0\\fast
+        	"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\cmTC_2e6c0.dir\\build.make /nologo -L                  CMakeFiles\\cmTC_2e6c0.dir\\build
+        Building CXX object CMakeFiles/cmTC_2e6c0.dir/CMakeCXXCompilerABI.cpp.obj
+        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\\cmTC_2e6c0.dir\\CMakeCXXCompilerABI.cpp.obj.d --working-dir=C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-vprfrn --filter-prefix="Nota: inclusi¾n del archivo: " -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe @C:\\Users\\Alej\\AppData\\Local\\Temp\\nmED.tmp
         CMakeCXXCompilerABI.cpp
-        Linking CXX executable cmTC_8e497.exe
-        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_8e497.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_8e497.dir\\objects1.rsp @C:\\Users\\Alej\\AppData\\Local\\Temp\\nm9E3D.tmp
+        Linking CXX executable cmTC_2e6c0.exe
+        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_2e6c0.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_2e6c0.dir\\objects1.rsp @C:\\Users\\Alej\\AppData\\Local\\Temp\\nm275.tmp
         Visual Studio Incremental Link with embedded manifests
-        Create CMakeFiles\\cmTC_8e497.dir/manifest.rc
-        Create empty: CMakeFiles\\cmTC_8e497.dir/embed.manifest
+        Create CMakeFiles\\cmTC_2e6c0.dir/manifest.rc
+        Create empty: CMakeFiles\\cmTC_2e6c0.dir/embed.manifest
         RC Pass 1:
-        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe /fo CMakeFiles\\cmTC_8e497.dir/manifest.res CMakeFiles\\cmTC_8e497.dir/manifest.rc
+        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe /fo CMakeFiles\\cmTC_2e6c0.dir/manifest.res CMakeFiles\\cmTC_2e6c0.dir/manifest.rc
         LINK Pass 1:
-        C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_8e497.dir\\objects1.rsp /out:cmTC_8e497.exe /implib:cmTC_8e497.lib /pdb:C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-g8k2hr\\cmTC_8e497.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_8e497.dir/intermediate.manifest CMakeFiles\\cmTC_8e497.dir/manifest.res
+        C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_2e6c0.dir\\objects1.rsp /out:cmTC_2e6c0.exe /implib:cmTC_2e6c0.lib /pdb:C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-vprfrn\\cmTC_2e6c0.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_2e6c0.dir/intermediate.manifest CMakeFiles\\cmTC_2e6c0.dir/manifest.res
         MT:
-        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe /nologo /manifest CMakeFiles\\cmTC_8e497.dir/intermediate.manifest /out:CMakeFiles\\cmTC_8e497.dir/embed.manifest /notify_update
+        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe /nologo /manifest CMakeFiles\\cmTC_2e6c0.dir/intermediate.manifest /out:CMakeFiles\\cmTC_2e6c0.dir/embed.manifest /notify_update
         RC Pass 2:
-        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe /fo CMakeFiles\\cmTC_8e497.dir/manifest.res CMakeFiles\\cmTC_8e497.dir/manifest.rc
+        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe /fo CMakeFiles\\cmTC_2e6c0.dir/manifest.res CMakeFiles\\cmTC_2e6c0.dir/manifest.rc
         FINAL LINK:
-        C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_8e497.dir\\objects1.rsp /out:cmTC_8e497.exe /implib:cmTC_8e497.lib /pdb:C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-g8k2hr\\cmTC_8e497.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_8e497.dir/intermediate.manifest CMakeFiles\\cmTC_8e497.dir/manifest.res
+        C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_2e6c0.dir\\objects1.rsp /out:cmTC_2e6c0.exe /implib:cmTC_2e6c0.lib /pdb:C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-vprfrn\\cmTC_2e6c0.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_2e6c0.dir/intermediate.manifest CMakeFiles\\cmTC_2e6c0.dir/manifest.res
         
       exitCode: 0
   -
@@ -256,8 +256,8 @@ events:
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-pjktps"
-      binary: "C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-pjktps"
+      source: "C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-f3djf8"
+      binary: "C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-f3djf8"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -266,17 +266,17 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-pjktps'
+        Change Dir: 'C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-f3djf8'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 nmake -f Makefile /nologo cmTC_3812d\\fast
-        	"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\cmTC_3812d.dir\\build.make /nologo -L                  CMakeFiles\\cmTC_3812d.dir\\build
-        Building C object CMakeFiles/cmTC_3812d.dir/src.c.obj
-        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\\cmTC_3812d.dir\\src.c.obj.d --working-dir=C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-pjktps --filter-prefix="Nota: inclusi¾n del archivo: " -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe @C:\\Users\\Alej\\AppData\\Local\\Temp\\nmA291.tmp
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 nmake -f Makefile /nologo cmTC_d2e12\\fast
+        	"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\cmTC_d2e12.dir\\build.make /nologo -L                  CMakeFiles\\cmTC_d2e12.dir\\build
+        Building C object CMakeFiles/cmTC_d2e12.dir/src.c.obj
+        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\\cmTC_d2e12.dir\\src.c.obj.d --working-dir=C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-f3djf8 --filter-prefix="Nota: inclusi¾n del archivo: " -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe @C:\\Users\\Alej\\AppData\\Local\\Temp\\nm727.tmp
         src.c
-        C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-pjktps\\src.c(1): fatal error C1083: No se puede abrir el archivo incluir: 'pthread.h': No such file or directory
-        NMAKE : fatal error U1077: '"C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\\cmTC_3812d.dir\\src.c.obj.d --working-dir=C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-pjktps --filter-prefix="Nota: inclusi¾n del archivo: " -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe @C:\\Users\\Alej\\AppData\\Local\\Temp\\nmA291.tmp' : c¾digo devuelto '0x2'
+        C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-f3djf8\\src.c(1): fatal error C1083: No se puede abrir el archivo incluir: 'pthread.h': No such file or directory
+        NMAKE : fatal error U1077: '"C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\\cmTC_d2e12.dir\\src.c.obj.d --working-dir=C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-f3djf8 --filter-prefix="Nota: inclusi¾n del archivo: " -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe @C:\\Users\\Alej\\AppData\\Local\\Temp\\nm727.tmp' : c¾digo devuelto '0x2'
         Stop.
-        NMAKE : fatal error U1077: '"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\cmTC_3812d.dir\\build.make /nologo -L                  CMakeFiles\\cmTC_3812d.dir\\build' : c¾digo devuelto '0x2'
+        NMAKE : fatal error U1077: '"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\cmTC_d2e12.dir\\build.make /nologo -L                  CMakeFiles\\cmTC_d2e12.dir\\build' : c¾digo devuelto '0x2'
         Stop.
         
       exitCode: 2
@@ -292,8 +292,8 @@ events:
     checks:
       - "Looking for pthread_create in pthreads"
     directories:
-      source: "C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-wjzwr2"
-      binary: "C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-wjzwr2"
+      source: "C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-llh2cq"
+      binary: "C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-llh2cq"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -302,27 +302,27 @@ events:
       variable: "CMAKE_HAVE_PTHREADS_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-wjzwr2'
+        Change Dir: 'C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-llh2cq'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 nmake -f Makefile /nologo cmTC_aee90\\fast
-        	"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\cmTC_aee90.dir\\build.make /nologo -L                  CMakeFiles\\cmTC_aee90.dir\\build
-        Building C object CMakeFiles/cmTC_aee90.dir/CheckFunctionExists.c.obj
-        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\\cmTC_aee90.dir\\CheckFunctionExists.c.obj.d --working-dir=C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-wjzwr2 --filter-prefix="Nota: inclusi¾n del archivo: " -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe @C:\\Users\\Alej\\AppData\\Local\\Temp\\nmA4C4.tmp
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 nmake -f Makefile /nologo cmTC_61b5f\\fast
+        	"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\cmTC_61b5f.dir\\build.make /nologo -L                  CMakeFiles\\cmTC_61b5f.dir\\build
+        Building C object CMakeFiles/cmTC_61b5f.dir/CheckFunctionExists.c.obj
+        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\\cmTC_61b5f.dir\\CheckFunctionExists.c.obj.d --working-dir=C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-llh2cq --filter-prefix="Nota: inclusi¾n del archivo: " -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe @C:\\Users\\Alej\\AppData\\Local\\Temp\\nm95A.tmp
         CheckFunctionExists.c
-        Linking C executable cmTC_aee90.exe
-        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_aee90.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_aee90.dir\\objects1.rsp @C:\\Users\\Alej\\AppData\\Local\\Temp\\nmA590.tmp
+        Linking C executable cmTC_61b5f.exe
+        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_61b5f.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_61b5f.dir\\objects1.rsp @C:\\Users\\Alej\\AppData\\Local\\Temp\\nmA35.tmp
         Visual Studio Incremental Link with embedded manifests
-        Create CMakeFiles\\cmTC_aee90.dir/manifest.rc
-        Create empty: CMakeFiles\\cmTC_aee90.dir/embed.manifest
+        Create CMakeFiles\\cmTC_61b5f.dir/manifest.rc
+        Create empty: CMakeFiles\\cmTC_61b5f.dir/embed.manifest
         RC Pass 1:
-        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe /fo CMakeFiles\\cmTC_aee90.dir/manifest.res CMakeFiles\\cmTC_aee90.dir/manifest.rc
+        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe /fo CMakeFiles\\cmTC_61b5f.dir/manifest.res CMakeFiles\\cmTC_61b5f.dir/manifest.rc
         LINK Pass 1:
-        C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_aee90.dir\\objects1.rsp /out:cmTC_aee90.exe /implib:cmTC_aee90.lib /pdb:C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-wjzwr2\\cmTC_aee90.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_aee90.dir/intermediate.manifest CMakeFiles\\cmTC_aee90.dir/manifest.res
-        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_aee90.dir\\objects1.rsp /out:cmTC_aee90.exe /implib:cmTC_aee90.lib /pdb:C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-wjzwr2\\cmTC_aee90.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_aee90.dir/intermediate.manifest CMakeFiles\\cmTC_aee90.dir/manifest.res" failed (exit code 1104) with the following output:
+        C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_61b5f.dir\\objects1.rsp /out:cmTC_61b5f.exe /implib:cmTC_61b5f.lib /pdb:C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-llh2cq\\cmTC_61b5f.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_61b5f.dir/intermediate.manifest CMakeFiles\\cmTC_61b5f.dir/manifest.res
+        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_61b5f.dir\\objects1.rsp /out:cmTC_61b5f.exe /implib:cmTC_61b5f.lib /pdb:C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-llh2cq\\cmTC_61b5f.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_61b5f.dir/intermediate.manifest CMakeFiles\\cmTC_61b5f.dir/manifest.res" failed (exit code 1104) with the following output:
         LINK : fatal error LNK1104: no se puede abrir el archivo 'pthreads.lib'
-        NMAKE : fatal error U1077: '"C:\\Program Files\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_aee90.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_aee90.dir\\objects1.rsp @C:\\Users\\Alej\\AppData\\Local\\Temp\\nmA590.tmp' : c¾digo devuelto '0xffffffff'
+        NMAKE : fatal error U1077: '"C:\\Program Files\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_61b5f.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_61b5f.dir\\objects1.rsp @C:\\Users\\Alej\\AppData\\Local\\Temp\\nmA35.tmp' : c¾digo devuelto '0xffffffff'
         Stop.
-        NMAKE : fatal error U1077: '"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\cmTC_aee90.dir\\build.make /nologo -L                  CMakeFiles\\cmTC_aee90.dir\\build' : c¾digo devuelto '0x2'
+        NMAKE : fatal error U1077: '"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\cmTC_61b5f.dir\\build.make /nologo -L                  CMakeFiles\\cmTC_61b5f.dir\\build' : c¾digo devuelto '0x2'
         Stop.
         
       exitCode: 2
@@ -338,8 +338,8 @@ events:
     checks:
       - "Looking for pthread_create in pthread"
     directories:
-      source: "C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-juybze"
-      binary: "C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-juybze"
+      source: "C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-6oazjz"
+      binary: "C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-6oazjz"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -348,27 +348,27 @@ events:
       variable: "CMAKE_HAVE_PTHREAD_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-juybze'
+        Change Dir: 'C:/Users/Alej/Desktop/ArchivoActual/Ive/FIGV-9/FIGV-9/CMakeFiles/CMakeScratch/TryCompile-6oazjz'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 nmake -f Makefile /nologo cmTC_0272a\\fast
-        	"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\cmTC_0272a.dir\\build.make /nologo -L                  CMakeFiles\\cmTC_0272a.dir\\build
-        Building C object CMakeFiles/cmTC_0272a.dir/CheckFunctionExists.c.obj
-        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\\cmTC_0272a.dir\\CheckFunctionExists.c.obj.d --working-dir=C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-juybze --filter-prefix="Nota: inclusi¾n del archivo: " -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe @C:\\Users\\Alej\\AppData\\Local\\Temp\\nmA793.tmp
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 nmake -f Makefile /nologo cmTC_208c9\\fast
+        	"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\cmTC_208c9.dir\\build.make /nologo -L                  CMakeFiles\\cmTC_208c9.dir\\build
+        Building C object CMakeFiles/cmTC_208c9.dir/CheckFunctionExists.c.obj
+        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\\cmTC_208c9.dir\\CheckFunctionExists.c.obj.d --working-dir=C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-6oazjz --filter-prefix="Nota: inclusi¾n del archivo: " -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe @C:\\Users\\Alej\\AppData\\Local\\Temp\\nmC57.tmp
         CheckFunctionExists.c
-        Linking C executable cmTC_0272a.exe
-        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_0272a.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_0272a.dir\\objects1.rsp @C:\\Users\\Alej\\AppData\\Local\\Temp\\nmA85F.tmp
+        Linking C executable cmTC_208c9.exe
+        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_208c9.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_208c9.dir\\objects1.rsp @C:\\Users\\Alej\\AppData\\Local\\Temp\\nmD23.tmp
         Visual Studio Incremental Link with embedded manifests
-        Create CMakeFiles\\cmTC_0272a.dir/manifest.rc
-        Create empty: CMakeFiles\\cmTC_0272a.dir/embed.manifest
+        Create CMakeFiles\\cmTC_208c9.dir/manifest.rc
+        Create empty: CMakeFiles\\cmTC_208c9.dir/embed.manifest
         RC Pass 1:
-        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe /fo CMakeFiles\\cmTC_0272a.dir/manifest.res CMakeFiles\\cmTC_0272a.dir/manifest.rc
+        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe /fo CMakeFiles\\cmTC_208c9.dir/manifest.res CMakeFiles\\cmTC_208c9.dir/manifest.rc
         LINK Pass 1:
-        C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_0272a.dir\\objects1.rsp /out:cmTC_0272a.exe /implib:cmTC_0272a.lib /pdb:C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-juybze\\cmTC_0272a.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_0272a.dir/intermediate.manifest CMakeFiles\\cmTC_0272a.dir/manifest.res
-        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_0272a.dir\\objects1.rsp /out:cmTC_0272a.exe /implib:cmTC_0272a.lib /pdb:C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-juybze\\cmTC_0272a.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_0272a.dir/intermediate.manifest CMakeFiles\\cmTC_0272a.dir/manifest.res" failed (exit code 1104) with the following output:
+        C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_208c9.dir\\objects1.rsp /out:cmTC_208c9.exe /implib:cmTC_208c9.lib /pdb:C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-6oazjz\\cmTC_208c9.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_208c9.dir/intermediate.manifest CMakeFiles\\cmTC_208c9.dir/manifest.res
+        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_208c9.dir\\objects1.rsp /out:cmTC_208c9.exe /implib:cmTC_208c9.lib /pdb:C:\\Users\\Alej\\Desktop\\ArchivoActual\\Ive\\FIGV-9\\FIGV-9\\CMakeFiles\\CMakeScratch\\TryCompile-6oazjz\\cmTC_208c9.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_208c9.dir/intermediate.manifest CMakeFiles\\cmTC_208c9.dir/manifest.res" failed (exit code 1104) with the following output:
         LINK : fatal error LNK1104: no se puede abrir el archivo 'pthread.lib'
-        NMAKE : fatal error U1077: '"C:\\Program Files\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_0272a.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_0272a.dir\\objects1.rsp @C:\\Users\\Alej\\AppData\\Local\\Temp\\nmA85F.tmp' : c¾digo devuelto '0xffffffff'
+        NMAKE : fatal error U1077: '"C:\\Program Files\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1942 --intdir=CMakeFiles\\cmTC_208c9.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_208c9.dir\\objects1.rsp @C:\\Users\\Alej\\AppData\\Local\\Temp\\nmD23.tmp' : c¾digo devuelto '0xffffffff'
         Stop.
-        NMAKE : fatal error U1077: '"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\cmTC_0272a.dir\\build.make /nologo -L                  CMakeFiles\\cmTC_0272a.dir\\build' : c¾digo devuelto '0x2'
+        NMAKE : fatal error U1077: '"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\cmTC_208c9.dir\\build.make /nologo -L                  CMakeFiles\\cmTC_208c9.dir\\build' : c¾digo devuelto '0x2'
         Stop.
         
       exitCode: 2

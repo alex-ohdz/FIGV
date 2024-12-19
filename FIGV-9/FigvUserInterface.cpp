@@ -102,6 +102,12 @@ void FigvUserInterface::preparePalettes() {
     ImGui::RadioButton("Line", FigvRenderer::getInstance()->getRenderingModeip(), GL_LINE); ImGui::SameLine();
     ImGui::RadioButton("Point", FigvRenderer::getInstance()->getRenderingModeip(), GL_POINT); ImGui::SameLine();
     ImGui::LabelText("", "Mode");
+    if (ImGui::TreeNode("Point mode properties"))
+    {
+        ImGui::SliderFloat("Point size", FigvRenderer::getInstance()->getPointSizefp(), 1.0f, 20.0f);
+        ImGui::TreePop();
+        ImGui::Spacing();
+    }
     
     ImGui::SeparatorText("Camera propierties");
 
@@ -109,38 +115,33 @@ void FigvUserInterface::preparePalettes() {
     bool orbitSelected = (*cameraMovement == ORBIT);
     if (ImGui::Checkbox("Orbit", &orbitSelected)) {
         if (orbitSelected) *cameraMovement = ORBIT;
-    }
+    }ImGui::SameLine();
 
     // Checkbox para "Pan"
     bool panSelected = (*cameraMovement == PAN);
     if (ImGui::Checkbox("Pan", &panSelected)) {
         if (panSelected) *cameraMovement = PAN;
-    }
+    }ImGui::SameLine();
 
     // Checkbox para "Dolly"
     bool dollySelected = (*cameraMovement == DOLLY);
     if (ImGui::Checkbox("Dolly", &dollySelected)) {
         if (dollySelected) *cameraMovement = DOLLY;
-    }
+    }ImGui::SameLine();
 
     // Checkbox para "Track"
     bool trackSelected = (*cameraMovement == TRACK);
     if (ImGui::Checkbox("Track", &trackSelected)) {
         if (trackSelected) *cameraMovement = TRACK;
-    }
+    }ImGui::SameLine();
 
      // Checkbox para "Zoom"
     bool zoomSelected = (*cameraMovement == ZOOM);
     if (ImGui::Checkbox("Zoom", &zoomSelected)) {
         if (zoomSelected) *cameraMovement = ZOOM;
-    }
+    }ImGui::SameLine();
     
-    if (ImGui::TreeNode("Point mode properties"))
-    {
-        ImGui::SliderFloat("Point size", FigvRenderer::getInstance()->getPointSizefp(), 1.0f, 20.0f);
-        ImGui::TreePop();
-        ImGui::Spacing();
-    }
+
     
     ImGui::Separator();
     

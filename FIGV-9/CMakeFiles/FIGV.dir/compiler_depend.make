@@ -3000,36 +3000,1894 @@ CMakeFiles\FIGV.dir\FigvTexture.cpp.obj: "C:\Program Files (x86)\Windows Kits\10
 CMakeFiles\FIGV.dir\FigvTexture.cpp.obj: FigvAuxiliaryFunctions.h
 
 
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: FigvUserInterface.cpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: FigvUserInterface.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\GLFW\glfw3.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stddef.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\sal.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\concurrencysal.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vadefs.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdint.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\GL\gl.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winapifamily.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winpackagefamily.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: FigvAuxiliaryFunctions.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\string"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\yvals_core.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xkeycheck.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xstring"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_sanitizer_annotate_container.hpp"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_string_view.hpp"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\iosfwd"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\yvals.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\crtdbg.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime_new_debug.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime_new.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\crtdefs.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\use_ansi.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cstdio"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdio.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdio.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_stdio_config.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cstring"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\string.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memory.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memcpy_s.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\errno.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime_string.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstring.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cwchar"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\wchar.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wconio.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wctype.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wdirect.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wio.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_share.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wprocess.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdlib.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wtime.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\sys\stat.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\sys\types.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xtr1common"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_iter_core.hpp"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\utility"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\initializer_list"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cstddef"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\type_traits"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cstdint"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\compare"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\concepts"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\climits"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\limits.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cstdlib"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\math.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_math.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdlib.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_malloc.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_search.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xmemory"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\limits"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cfloat"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\float.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\intrin0.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\intrin0.inl.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\new"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\exception"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\malloc.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime_exception.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\eh.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_terminate.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xatomic.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xpolymorphic_allocator.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cctype"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\ctype.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: imgui\backends\imgui_impl_opengl3.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: imgui\imgui.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: imgui\imconfig.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdarg.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: imgui\backends\imgui_impl_glfw.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: FigvRenderer.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_bit_utils.hpp"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\vec4.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool4.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_vec4.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\qualifier.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cassert"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\simd\platform.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec4.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\compute_vector_relational.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool4_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float4.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float4_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double4.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double4_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int4.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int4_sized.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\ext\scalar_int_sized.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint4.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint4_sized.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\ext\scalar_uint_sized.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: FigvShader.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\vec3.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool3.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_vec3.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec3.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool3_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float3.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float3_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double3.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double3_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int3.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int3_sized.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint3.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint3_sized.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\glm.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\_fixes.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cmath"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cassert"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\fwd.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\vec2.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool2.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_vec2.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec2.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool2_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float2.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float2_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double2.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double2_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int2.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int2_sized.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint2.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint2_sized.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat2x2.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x2.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat2x2.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat2x2.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\matrix.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat2x3.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x3.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat2x3.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat2x3.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x3_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x3.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x3_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat2x4.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x4.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat2x4.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat2x4.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x4_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x4.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x4_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat3x2.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x2.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat3x2.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat3x2.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x2_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x2.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x2_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat3x3.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x3.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat3x3.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat3x3.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x3_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x3.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x3_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat3x4.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x4.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat3x4.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat3x4.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x4_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x4.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x4_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat4x2.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x2.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat4x2.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat4x2.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x2_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x2.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x2_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat4x3.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x3.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat4x3.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat4x3.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x3_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x3.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x3_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat4x4.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x4.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat4x4.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat4x4.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x4_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x4.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x4_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_matrix.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\geometric.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_geometric.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\exponential.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec1.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec1.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_exponential.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\vector_relational.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_vector_relational.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\_vectorize.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cassert"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\common.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\_fixes.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_common.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\compute_common.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x2_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x2.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x2_precision.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\trigonometric.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_trigonometric.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\packing.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_packing.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_half.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_half.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\integer.hpp
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_integer.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\intrin.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\setjmp.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\immintrin.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\wmmintrin.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\nmmintrin.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\smmintrin.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tmmintrin.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\pmmintrin.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\emmintrin.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xmmintrin.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\mmintrin.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\zmmintrin.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ammintrin.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: FigvScene.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: FigvCamera.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: Figv3DModel.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\scene.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\types.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\defs.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\config.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\vector2.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\vector3.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\color4.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\matrix3x3.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\matrix4x4.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\quaternion.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\vector2.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\vector3.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\color4.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\matrix3x3.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\algorithm"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_heap_algorithms.hpp"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_minmax.hpp"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\matrix4x4.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\MathFunctions.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\quaternion.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\texture.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\.\Compiler\pushpack1.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\.\Compiler\poppack1.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\mesh.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\aabb.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\unordered_set"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xhash"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\list"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xbit_ops.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xnode_handle.h"
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\light.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\camera.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\material.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\.\Compiler\pushpack1.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\.\Compiler\poppack1.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\material.inl
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\anim.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\metadata.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: FigvMesh.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: FigvMaterial.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: FigvTexture.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: FigvLightSource.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: FigvEventManager.h
+
+
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: FigvWindowSystem.cpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\glad\include\glad\glad.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\glad\include\KHR\khrplatform.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: FigvWindowSystem.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\GLFW\glfw3.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stddef.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\sal.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\concurrencysal.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vadefs.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdint.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: FigvAuxiliaryFunctions.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\string"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\yvals_core.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xkeycheck.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xstring"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_sanitizer_annotate_container.hpp"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_string_view.hpp"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\iosfwd"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\yvals.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\crtdbg.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime_new_debug.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime_new.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\crtdefs.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\use_ansi.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cstdio"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdio.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdio.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_stdio_config.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cstring"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\string.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memory.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memcpy_s.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\errno.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime_string.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstring.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cwchar"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\wchar.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wconio.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wctype.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wdirect.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wio.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_share.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wprocess.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdlib.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wtime.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\sys\stat.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\sys\types.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xtr1common"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_iter_core.hpp"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\utility"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\initializer_list"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cstddef"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\type_traits"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cstdint"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\compare"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\concepts"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\climits"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\limits.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cstdlib"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\math.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_math.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdlib.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_malloc.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_search.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xmemory"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\limits"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cfloat"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\float.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\intrin0.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\intrin0.inl.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\new"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\exception"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\malloc.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime_exception.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\eh.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_terminate.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xatomic.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xpolymorphic_allocator.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cctype"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\ctype.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: FigvScene.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: FigvShader.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\vec3.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool3.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_vec3.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\qualifier.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cassert"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\simd\platform.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec3.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\compute_vector_relational.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool3_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float3.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float3_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double3.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double3_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int3.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int3_sized.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\ext\scalar_int_sized.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint3.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint3_sized.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\ext\scalar_uint_sized.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\glm.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\_fixes.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cmath"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cassert"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\fwd.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\vec2.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool2.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_vec2.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec2.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool2_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float2.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float2_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double2.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double2_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int2.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int2_sized.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint2.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint2_sized.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\vec4.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool4.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_vec4.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec4.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool4_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float4.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float4_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double4.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double4_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int4.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int4_sized.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint4.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint4_sized.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat2x2.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x2.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat2x2.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat2x2.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\matrix.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat2x3.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x3.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat2x3.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat2x3.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x3_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x3.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x3_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat2x4.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x4.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat2x4.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat2x4.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x4_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x4.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x4_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat3x2.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x2.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat3x2.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat3x2.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x2_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x2.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x2_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat3x3.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x3.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat3x3.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat3x3.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x3_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x3.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x3_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat3x4.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x4.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat3x4.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat3x4.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x4_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x4.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x4_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat4x2.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x2.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat4x2.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat4x2.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x2_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x2.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x2_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat4x3.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x3.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat4x3.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat4x3.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x3_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x3.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x3_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat4x4.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x4.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat4x4.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat4x4.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x4_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x4.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x4_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_matrix.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\geometric.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_geometric.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\exponential.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec1.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec1.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_exponential.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\vector_relational.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_vector_relational.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\_vectorize.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cassert"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\common.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\_fixes.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_common.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\compute_common.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x2_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x2.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x2_precision.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\trigonometric.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_trigonometric.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\packing.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_packing.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_half.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_half.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\integer.hpp
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_integer.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\intrin.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\setjmp.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\immintrin.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\wmmintrin.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\nmmintrin.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\smmintrin.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tmmintrin.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\pmmintrin.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\emmintrin.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xmmintrin.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\mmintrin.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\zmmintrin.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ammintrin.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: FigvCamera.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: Figv3DModel.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_bit_utils.hpp"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\scene.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\types.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\defs.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\config.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\vector2.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\vector3.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\color4.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\matrix3x3.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\matrix4x4.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\quaternion.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\vector2.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\vector3.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\color4.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\matrix3x3.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\algorithm"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_heap_algorithms.hpp"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_minmax.hpp"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\matrix4x4.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\MathFunctions.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\quaternion.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\texture.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\.\Compiler\pushpack1.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\.\Compiler\poppack1.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\mesh.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\aabb.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\unordered_set"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xhash"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\list"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xbit_ops.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xnode_handle.h"
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\light.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\camera.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\material.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\.\Compiler\pushpack1.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\.\Compiler\poppack1.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\material.inl
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\anim.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\metadata.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: FigvMesh.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: FigvMaterial.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: FigvTexture.h
+CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.obj: FigvLightSource.h
+
+
+CMakeFiles\FIGV.dir\glad.c.obj: glad.c
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdio.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\sal.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\concurrencysal.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vadefs.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdio.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_stdio_config.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdlib.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_malloc.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_search.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stddef.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdlib.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\limits.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\string.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memory.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memcpy_s.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\errno.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime_string.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstring.h"
+CMakeFiles\FIGV.dir\glad.c.obj: C:\src\glad\include\glad\glad.h
+CMakeFiles\FIGV.dir\glad.c.obj: C:\src\glad\include\KHR\khrplatform.h
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\windows.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winapifamily.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winpackagefamily.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\sdkddkver.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\excpt.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdarg.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\windef.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\minwindef.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\specstrings.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\specstrings_strict.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\specstrings_undef.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\driverspecs.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\sdv_driverspecs.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnt.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\ctype.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wctype.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\kernelspecs.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\basetsd.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\guiddef.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\apiset.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\ktmtypes.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winbase.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\apisetcconv.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\minwinbase.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\apiquery2.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processenv.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fileapifromapp.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fileapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\debugapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\utilapiset.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\handleapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\errhandlingapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fibersapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\namedpipeapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\profileapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\heapapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ioapiset.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\synchapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\interlockedapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processthreadsapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\sysinfoapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\memoryapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\enclaveapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\threadpoollegacyapiset.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\threadpoolapiset.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\jobapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\jobapi2.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wow64apiset.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\libloaderapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\securitybaseapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\namespaceapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\systemtopologyapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processtopologyapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\securityappcontainer.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\realtimeapiset.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winerror.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\timezoneapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wingdi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winuser.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\tvout.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnls.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\datetimeapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\stringapiset.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnls.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wincon.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wincontypes.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi2.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi3.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winver.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\verrsrc.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winreg.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\reason.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnetwk.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\wnnc.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\cderr.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\dde.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ddeml.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\dlgs.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\lzexpand.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsystem.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsyscom.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mciapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsyscom.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmiscapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsyscom.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmiscapi2.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsyscom.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\playsoundapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsyscom.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmeapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsyscom.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\timeapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsyscom.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\joystickapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsyscom.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\nb30.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpc.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcdce.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcdcep.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\rpcnsi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcnterr.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcasync.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\shellapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winperf.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winsock.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\inaddr.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wincrypt.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\bcrypt.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ncrypt.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\dpapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winefs.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winscard.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\wtypes.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcndr.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\rpcnsip.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcsal.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\wtypesbase.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\guiddef.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winioctl.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winsmcrd.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winspool.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\prsht.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ole2.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\objbase.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\combaseapi.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\unknwnbase.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\objidlbase.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\guiddef.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\cguid.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\coml2api.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\objidl.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\unknwn.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\propidlbase.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\oaidl.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\urlmon.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\oleidl.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\servprov.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\msxml.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\propidl.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\oleauto.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\commdlg.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\prsht.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\stralign.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winsvc.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mcx.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\imm.h"
+CMakeFiles\FIGV.dir\glad.c.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ime_cmodes.h"
+
+
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: imgui\backends\imgui_impl_glfw.cpp
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: imgui\imgui.h
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: imgui\imconfig.h
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\float.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\sal.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\concurrencysal.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vadefs.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdarg.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stddef.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\string.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memory.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memcpy_s.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\errno.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime_string.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstring.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: imgui\backends\imgui_impl_glfw.h
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\GLFW\glfw3.h
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdint.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\GL\gl.h
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winapifamily.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winpackagefamily.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\GLFW\glfw3native.h
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\windows.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\sdkddkver.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\excpt.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\windef.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\minwindef.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\specstrings.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\specstrings_strict.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\specstrings_undef.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\driverspecs.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\sdv_driverspecs.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnt.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\ctype.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wctype.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\kernelspecs.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\basetsd.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\guiddef.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\apiset.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\ktmtypes.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winbase.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\apisetcconv.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\minwinbase.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\apiquery2.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processenv.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fileapifromapp.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fileapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\debugapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\utilapiset.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\handleapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\errhandlingapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fibersapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\namedpipeapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\profileapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\heapapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ioapiset.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\synchapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\interlockedapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processthreadsapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\sysinfoapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\memoryapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\enclaveapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\threadpoollegacyapiset.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\threadpoolapiset.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\jobapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\jobapi2.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wow64apiset.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\libloaderapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\securitybaseapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\namespaceapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\systemtopologyapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processtopologyapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\securityappcontainer.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\realtimeapiset.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winerror.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\timezoneapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wingdi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winuser.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\tvout.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnls.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\datetimeapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\stringapiset.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnls.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wincon.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wincontypes.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi2.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi3.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winver.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\verrsrc.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winreg.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\reason.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnetwk.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\wnnc.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\cderr.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\dde.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ddeml.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\dlgs.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\lzexpand.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsystem.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsyscom.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mciapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsyscom.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmiscapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsyscom.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmiscapi2.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsyscom.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\playsoundapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsyscom.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmeapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsyscom.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\timeapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsyscom.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\joystickapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsyscom.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\nb30.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpc.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcdce.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcdcep.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\rpcnsi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcnterr.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcasync.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\shellapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winperf.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winsock.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\inaddr.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wincrypt.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\bcrypt.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ncrypt.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\dpapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winefs.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winscard.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\wtypes.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcndr.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\rpcnsip.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcsal.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\wtypesbase.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\guiddef.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winioctl.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winsmcrd.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winspool.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\prsht.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ole2.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\objbase.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\combaseapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdlib.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_malloc.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_search.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdlib.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\limits.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\unknwnbase.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\objidlbase.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\guiddef.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\cguid.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\coml2api.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\objidl.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\unknwn.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\propidlbase.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\oaidl.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\urlmon.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\oleidl.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\servprov.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\msxml.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\propidl.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\oleauto.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\commdlg.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\prsht.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\stralign.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winsvc.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mcx.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\imm.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_glfw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ime_cmodes.h"
+
+
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: imgui\backends\imgui_impl_opengl3.cpp
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: imgui\imgui.h
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: imgui\imconfig.h
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\float.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\sal.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\concurrencysal.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vadefs.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdarg.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stddef.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\string.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memory.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memcpy_s.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\errno.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime_string.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstring.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: imgui\backends\imgui_impl_opengl3.h
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdio.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdio.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_stdio_config.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdint.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: imgui\backends\imgui_impl_opengl3_loader.h
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\windows.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winapifamily.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winpackagefamily.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\sdkddkver.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\excpt.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\windef.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\minwindef.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\specstrings.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\specstrings_strict.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\specstrings_undef.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\driverspecs.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\sdv_driverspecs.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnt.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\ctype.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wctype.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\kernelspecs.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\basetsd.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\guiddef.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\apiset.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\ktmtypes.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winbase.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\apisetcconv.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\minwinbase.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\apiquery2.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processenv.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fileapifromapp.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fileapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\debugapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\utilapiset.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\handleapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\errhandlingapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fibersapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\namedpipeapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\profileapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\heapapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ioapiset.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\synchapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\interlockedapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processthreadsapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\sysinfoapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\memoryapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\enclaveapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\threadpoollegacyapiset.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\threadpoolapiset.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\jobapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\jobapi2.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wow64apiset.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\libloaderapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\securitybaseapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\namespaceapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\systemtopologyapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processtopologyapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\securityappcontainer.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\realtimeapiset.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winerror.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\timezoneapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wingdi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winuser.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\tvout.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnls.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\datetimeapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\stringapiset.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnls.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wincon.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wincontypes.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi2.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi3.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winver.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\verrsrc.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winreg.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\reason.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnetwk.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\wnnc.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\stralign.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winsvc.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mcx.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\imm.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ime_cmodes.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdlib.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_malloc.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_search.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdlib.h"
+CMakeFiles\FIGV.dir\imgui\backends\imgui_impl_opengl3.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\limits.h"
+
+
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: imgui\imgui.cpp
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: imgui\imgui.h
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: imgui\imconfig.h
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\float.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\sal.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\concurrencysal.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vadefs.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdarg.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stddef.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\string.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memory.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memcpy_s.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\errno.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime_string.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstring.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: imgui\imgui_internal.h
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdio.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdio.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_stdio_config.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdlib.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_malloc.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_search.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdlib.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\limits.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\math.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_math.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\immintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\wmmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\nmmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\smmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tmmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\pmmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\emmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xmmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\mmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\malloc.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\zmmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: imgui\imstb_textedit.h
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdint.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\Windows.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winapifamily.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winpackagefamily.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\sdkddkver.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\excpt.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\windef.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\minwindef.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\specstrings.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\specstrings_strict.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\specstrings_undef.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\driverspecs.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\sdv_driverspecs.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnt.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\ctype.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wctype.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\kernelspecs.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\basetsd.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\guiddef.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\apiset.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\ktmtypes.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winbase.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\apisetcconv.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\minwinbase.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\apiquery2.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processenv.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fileapifromapp.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fileapi.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\debugapi.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\utilapiset.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\handleapi.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\errhandlingapi.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fibersapi.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\namedpipeapi.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\profileapi.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\heapapi.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ioapiset.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\synchapi.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\interlockedapi.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processthreadsapi.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\sysinfoapi.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\memoryapi.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\enclaveapi.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\threadpoollegacyapiset.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\threadpoolapiset.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\jobapi.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\jobapi2.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wow64apiset.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\libloaderapi.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\securitybaseapi.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\namespaceapi.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\systemtopologyapi.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processtopologyapi.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\securityappcontainer.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\realtimeapiset.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winerror.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\timezoneapi.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wingdi.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winuser.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\tvout.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnls.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\datetimeapi.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\stringapiset.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnls.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wincon.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wincontypes.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi2.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi3.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winver.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\verrsrc.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winreg.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\reason.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnetwk.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\wnnc.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\stralign.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winsvc.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mcx.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\imm.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ime_cmodes.h"
+CMakeFiles\FIGV.dir\imgui\imgui.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\imm.h"
+
+
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: imgui\imgui_demo.cpp
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: imgui\imgui.h
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: imgui\imconfig.h
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\float.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\sal.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\concurrencysal.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vadefs.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdarg.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stddef.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\string.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memory.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memcpy_s.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\errno.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime_string.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstring.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\ctype.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wctype.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\limits.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\math.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_math.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdio.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdio.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_stdio_config.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdlib.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_malloc.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_search.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdlib.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdint.h"
+CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\inttypes.h"
+
+
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: imgui\imgui_draw.cpp
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: imgui\imgui.h
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: imgui\imconfig.h
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\float.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\sal.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\concurrencysal.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vadefs.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdarg.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stddef.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\string.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memory.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memcpy_s.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\errno.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime_string.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstring.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: imgui\imgui_internal.h
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdio.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdio.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_stdio_config.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdlib.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_malloc.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_search.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdlib.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\limits.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\math.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_math.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\immintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\wmmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\nmmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\smmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tmmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\pmmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\emmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xmmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\mmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\malloc.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\zmmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: imgui\imstb_textedit.h
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: imgui\imstb_rectpack.h
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: imgui\imstb_truetype.h
+CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\math.h"
+
+
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: imgui\imgui_tables.cpp
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: imgui\imgui.h
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: imgui\imconfig.h
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\float.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\sal.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\concurrencysal.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vadefs.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdarg.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stddef.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\string.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memory.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memcpy_s.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\errno.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime_string.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstring.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: imgui\imgui_internal.h
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdio.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdio.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_stdio_config.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdlib.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_malloc.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_search.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdlib.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\limits.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\math.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_math.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\immintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\wmmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\nmmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\smmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tmmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\pmmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\emmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xmmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\mmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\malloc.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\zmmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: imgui\imstb_textedit.h
+CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdint.h"
+
+
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: imgui\imgui_widgets.cpp
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: imgui\imgui.h
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: imgui\imconfig.h
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\float.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\sal.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\concurrencysal.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vadefs.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdarg.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stddef.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\string.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memory.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memcpy_s.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\errno.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime_string.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstring.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: imgui\imgui_internal.h
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdio.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdio.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_stdio_config.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdlib.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_malloc.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_search.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdlib.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\limits.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\math.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_math.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\immintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\wmmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\nmmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\smmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tmmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\pmmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\emmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xmmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\mmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\malloc.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\zmmintrin.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: imgui\imstb_textedit.h
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdint.h"
+CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: imgui\imstb_textedit.h
+
+
+CMakeFiles\FIGV.dir\main.cpp.obj: main.cpp
+CMakeFiles\FIGV.dir\main.cpp.obj: FigvWindowSystem.h
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\GLFW\glfw3.h
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stddef.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\sal.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\concurrencysal.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vadefs.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdint.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\GL\gl.h
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winapifamily.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winpackagefamily.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: FigvAuxiliaryFunctions.h
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\string"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\yvals_core.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xkeycheck.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xstring"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_sanitizer_annotate_container.hpp"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_string_view.hpp"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\iosfwd"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\yvals.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\crtdbg.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime_new_debug.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime_new.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\crtdefs.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\use_ansi.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cstdio"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdio.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdio.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_stdio_config.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cstring"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\string.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memory.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memcpy_s.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\errno.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime_string.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstring.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cwchar"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\wchar.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wconio.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wctype.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wdirect.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wio.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_share.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wprocess.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdlib.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wtime.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\sys\stat.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\sys\types.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xtr1common"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_iter_core.hpp"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\utility"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\initializer_list"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cstddef"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\type_traits"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cstdint"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\compare"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\concepts"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\climits"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\limits.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cstdlib"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\math.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_math.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdlib.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_malloc.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_search.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xmemory"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\limits"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cfloat"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\float.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\intrin0.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\intrin0.inl.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\new"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\exception"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\malloc.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime_exception.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\eh.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_terminate.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xatomic.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xpolymorphic_allocator.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cctype"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\ctype.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: FigvUserInterface.h
+CMakeFiles\FIGV.dir\main.cpp.obj: FigvRenderer.h
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_bit_utils.hpp"
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\vec4.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool4.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_vec4.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\qualifier.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cassert"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\simd\platform.h
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec4.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\compute_vector_relational.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool4_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float4.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float4_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double4.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double4_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\setup.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int4.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int4_sized.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\ext\scalar_int_sized.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\setup.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint4.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint4_sized.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\ext\scalar_uint_sized.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\setup.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: FigvShader.h
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\vec3.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool3.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_vec3.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec3.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool3_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float3.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float3_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double3.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double3_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int3.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int3_sized.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint3.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint3_sized.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\glm.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\_fixes.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cmath"
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cassert"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\fwd.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\vec2.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool2.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_vec2.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec2.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool2_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float2.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float2_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double2.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double2_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int2.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int2_sized.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint2.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint2_sized.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat2x2.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x2.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat2x2.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat2x2.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\matrix.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat2x3.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x3.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat2x3.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat2x3.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x3_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x3.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x3_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat2x4.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x4.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat2x4.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat2x4.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x4_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x4.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x4_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat3x2.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x2.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat3x2.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat3x2.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x2_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x2.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x2_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat3x3.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x3.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat3x3.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat3x3.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x3_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x3.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x3_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat3x4.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x4.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat3x4.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat3x4.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x4_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x4.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x4_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat4x2.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x2.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat4x2.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat4x2.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x2_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x2.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x2_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat4x3.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x3.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat4x3.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat4x3.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x3_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x3.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x3_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\mat4x4.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x4.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat4x4.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat4x4.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x4_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x4.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x4_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_matrix.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\geometric.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_geometric.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\exponential.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec1.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec1.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_exponential.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\vector_relational.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_vector_relational.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\_vectorize.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cassert"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\common.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\_fixes.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_common.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\compute_common.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x2_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x2.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x2_precision.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\trigonometric.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_trigonometric.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\packing.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_packing.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_half.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_half.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\integer.hpp
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_integer.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\intrin.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\setjmp.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\immintrin.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\wmmintrin.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\nmmintrin.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\smmintrin.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tmmintrin.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\pmmintrin.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\emmintrin.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xmmintrin.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\mmintrin.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\zmmintrin.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ammintrin.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: FigvEventManager.h
+CMakeFiles\FIGV.dir\main.cpp.obj: FigvCamera.h
+CMakeFiles\FIGV.dir\main.cpp.obj: FigvScene.h
+CMakeFiles\FIGV.dir\main.cpp.obj: Figv3DModel.h
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\scene.h
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\types.h
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\defs.h
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\config.h
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\vector2.h
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\vector3.h
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\color4.h
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\matrix3x3.h
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\matrix4x4.h
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\quaternion.h
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\vector2.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\vector3.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\color4.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\matrix3x3.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\algorithm"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_heap_algorithms.hpp"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_minmax.hpp"
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\matrix4x4.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\MathFunctions.h
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\quaternion.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\texture.h
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\.\Compiler\pushpack1.h
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\.\Compiler\poppack1.h
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\mesh.h
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\aabb.h
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\unordered_set"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xhash"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\list"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xbit_ops.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xnode_handle.h"
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\light.h
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\camera.h
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\material.h
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\.\Compiler\pushpack1.h
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\.\Compiler\poppack1.h
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\material.inl
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\anim.h
+CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\assimp\metadata.h
+CMakeFiles\FIGV.dir\main.cpp.obj: FigvMesh.h
+CMakeFiles\FIGV.dir\main.cpp.obj: FigvMaterial.h
+CMakeFiles\FIGV.dir\main.cpp.obj: FigvTexture.h
+CMakeFiles\FIGV.dir\main.cpp.obj: FigvLightSource.h
+
+
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cmath":
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime.h":
-
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime_string.h":
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime.h":
 
 Figv3DModel.cpp:
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\synchapi.h":
+
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vadefs.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_search.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double2_precision.hpp:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\concurrencysal.h":
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_search.h":
-
 C:\src\vcpkg\installed\x64-windows\include\assimp\vector2.inl:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_string_view.hpp":
 
-C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float4.hpp:
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstring.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double3.hpp:
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstring.h":
+C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float4.hpp:
+
+FigvUserInterface.cpp:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_stdio_config.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x3.hpp:
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_stdio_config.h":
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winperf.h":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdio.h":
 
@@ -3037,37 +4895,47 @@ C:\src\vcpkg\installed\x64-windows\include\assimp\matrix4x4.h:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\sal.h":
 
-C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double4.hpp:
-
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float3.hpp:
+
+C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double4.hpp:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xtr1common":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stddef.h":
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h":
+
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\vec3.hpp:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\stringapiset.h":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cstdint":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdio.h":
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmiscapi.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h":
+
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cerrno":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\wtypes.h":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\yvals.h":
 
-C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int3_sized.hpp:
-
 C:\src\vcpkg\installed\x64-windows\include\assimp\Importer.hpp:
+
+C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int3_sized.hpp:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\math.h":
 
 C:\src\vcpkg\installed\x64-windows\include\assimp\color4.h:
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\zmmintrin.h":
-
 C:\src\vcpkg\installed\x64-windows\include\assimp\types.h:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\zmmintrin.h":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_sanitizer_annotate_container.hpp":
 
@@ -3083,17 +4951,17 @@ FigvMaterial.cpp:
 
 FigvTexture.cpp:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat3x2.inl:
-
 C:\src\vcpkg\installed\x64-windows\include\assimp\matrix3x3.h:
 
+C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat3x2.inl:
+
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memcpy_s.h":
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\iosfwd":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\forward_list":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cctype":
-
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\iosfwd":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x2_precision.hpp:
 
@@ -3107,17 +4975,17 @@ C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\simd\platform.h:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xstring":
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\emmintrin.h":
-
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\exception":
 
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\emmintrin.h":
+
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\crtdefs.h":
+
+C:\src\vcpkg\installed\x64-windows\include\assimp\config.h:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_filebuf.hpp":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\memory":
-
-C:\src\vcpkg\installed\x64-windows\include\assimp\config.h:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_terminate.h":
 
@@ -3131,31 +4999,33 @@ C:\src\vcpkg\installed\x64-windows\include\assimp\vector3.h:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\yvals_core.h":
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\time.h":
-
-C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x3_precision.hpp:
+C:\src\vcpkg\installed\x64-windows\include\assimp\quaternion.h:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\ext\scalar_uint_sized.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\assimp\quaternion.h:
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\time.h":
+
+imgui\backends\imgui_impl_glfw.h:
+
+C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x3_precision.hpp:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xkeycheck.h":
 
-C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x2_precision.hpp:
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cstring":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec3.inl:
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cstring":
+C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x2_precision.hpp:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\crtdbg.h":
 
-C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\matrix.hpp:
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\new":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\epsilon.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat2x3.inl:
+C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\matrix.hpp:
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\new":
+C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat2x3.inl:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime_typeinfo.h":
 
@@ -3163,27 +5033,35 @@ C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat2x3.inl:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime_new.h":
 
-C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_int1_sized.hpp:
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processenv.h":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_math.h":
 
-C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_double1.hpp:
+C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_int1_sized.hpp:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\debugapi.h":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\use_ansi.h":
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ios":
+C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_double1.hpp:
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\climits":
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\basetsd.h":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cstdlib":
 
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\climits":
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ios":
+
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdlib.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fileapi.h":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_malloc.h":
 
-C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\ext\quaternion_geometric.hpp:
-
 C:\src\vcpkg\installed\x64-windows\include\assimp\metadata.h:
+
+C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\ext\quaternion_geometric.hpp:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdlib.h":
 
@@ -3193,17 +5071,23 @@ C:\src\vcpkg\installed\x64-windows\include\assimp\metadata.h:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec3.hpp:
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\oleidl.h":
+
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\intrin0.inl.h":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\type_traits":
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\algorithm":
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\oleauto.h":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime_exception.h":
 
-C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x3_precision.hpp:
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\algorithm":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\_fixes.hpp:
+
+C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x3_precision.hpp:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\imm.h":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cstddef":
 
@@ -3213,11 +5097,13 @@ C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_geometric.inl:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\gtc\constants.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x2.hpp:
-
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\eh.h":
 
+C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x2.hpp:
+
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\string":
+
+imgui\backends\imgui_impl_opengl3.cpp:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cstdio":
 
@@ -3225,87 +5111,97 @@ C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x2.hpp:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cwchar":
 
-FigvTexture.h:
-
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\wchar.h":
+
+FigvTexture.h:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wconio.h":
 
-C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x3.hpp:
-
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wctype.h":
 
-FigvAuxiliaryFunctions.h:
+C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x3.hpp:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wdirect.h":
 
-C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat3x4.inl:
+FigvAuxiliaryFunctions.h:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wio.h":
+
+C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat3x4.inl:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\quaternion_relational.inl:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_share.h":
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wprocess.h":
+
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\common.hpp:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\sys\stat.h":
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wprocess.h":
-
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_print.hpp":
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wtime.h":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\streambuf":
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wtime.h":
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_print.hpp":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\specstrings_undef.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcdce.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\type_ptr.inl:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x2.hpp:
-
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility":
 
-C:\src\vcpkg\installed\x64-windows\include\glm\mat4x2.hpp:
+C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x2.hpp:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_iter_core.hpp":
 
+C:\src\vcpkg\installed\x64-windows\include\glm\mat4x2.hpp:
+
+FigvUserInterface.h:
+
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\utility":
-
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\atomic":
-
-C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x2_precision.hpp:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\initializer_list":
 
-C:\src\vcpkg\installed\x64-windows\include\glm\fwd.hpp:
+C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x2_precision.hpp:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\atomic":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\compare":
+
+C:\src\vcpkg\installed\x64-windows\include\glm\fwd.hpp:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\concepts":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\limits":
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processthreadsapi.h":
+
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cfloat":
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xpolymorphic_allocator.h":
-
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\float.h":
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xpolymorphic_allocator.h":
 
 C:\src\vcpkg\installed\x64-windows\include\GLFW\glfw3.h:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xatomic.h":
 
-C:\src\vcpkg\installed\x64-windows\include\glm\mat2x4.hpp:
-
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple":
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_system_error_abi.hpp":
+C:\src\vcpkg\installed\x64-windows\include\glm\mat2x4.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\mat3x2.hpp:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_system_error_abi.hpp":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\ctype.h":
 
 C:\src\vcpkg\installed\x64-windows\include\assimp\material.h:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\cguid.h":
 
 C:\src\vcpkg\installed\x64-windows\include\assimp\vector3.inl:
 
@@ -3317,15 +5213,15 @@ C:\src\vcpkg\installed\x64-windows\include\assimp\matrix3x3.inl:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x3.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x2_precision.hpp:
-
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_heap_algorithms.hpp":
 
-C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float2_precision.hpp:
+C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x2_precision.hpp:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_minmax.hpp":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\vec2.hpp:
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_minmax.hpp":
+C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float2_precision.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\setup.hpp:
 
@@ -3335,27 +5231,31 @@ FigvShader.cpp:
 
 C:\src\vcpkg\installed\x64-windows\include\assimp\MathFunctions.h:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\matrix_clip_space.hpp:
-
 C:\src\vcpkg\installed\x64-windows\include\assimp\quaternion.inl:
+
+C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\matrix_clip_space.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\assimp\postprocess.h:
 
 Figv3DModel.h:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\detail\qualifier.hpp:
-
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector":
 
+C:\src\vcpkg\installed\x64-windows\include\glm\detail\qualifier.hpp:
+
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_bit_utils.hpp":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\urlmon.h":
 
 C:\src\vcpkg\installed\x64-windows\include\assimp\scene.h:
 
 C:\src\vcpkg\installed\x64-windows\include\assimp\texture.h:
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xerrc.h":
-
 C:\src\vcpkg\installed\x64-windows\include\assimp\.\Compiler\pushpack1.h:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\minwindef.h":
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xerrc.h":
 
 C:\src\vcpkg\installed\x64-windows\include\assimp\.\Compiler\poppack1.h:
 
@@ -3363,19 +5263,23 @@ C:\src\vcpkg\installed\x64-windows\include\assimp\mesh.h:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winpackagefamily.h":
 
+imgui\backends\imgui_impl_opengl3_loader.h:
+
 C:\src\vcpkg\installed\x64-windows\include\assimp\aabb.h:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\unordered_set":
 
-C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\geometric.hpp:
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\objidl.h":
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\list":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\gtc\constants.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\vector_relational.hpp:
+C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\geometric.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x2.hpp:
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\list":
+C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\vector_relational.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\assimp\light.h:
 
@@ -3383,17 +5287,17 @@ C:\src\vcpkg\installed\x64-windows\include\assimp\camera.h:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\detail\qualifier.hpp:
 
+C:\src\vcpkg\installed\x64-windows\include\assimp\material.inl:
+
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool4.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\assimp\material.inl:
+C:\src\vcpkg\installed\x64-windows\include\assimp\anim.h:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\locale":
 
-C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat3x4.hpp:
-
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint3_sized.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\assimp\anim.h:
+C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat3x4.hpp:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\sstream":
 
@@ -3407,27 +5311,31 @@ C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_vec3.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\setup.hpp:
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdarg.h":
-
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\cassert":
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdarg.h":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\compute_vector_relational.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\detail\_vectorize.hpp:
-
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool3_precision.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\ext\quaternion_transform.inl:
+C:\src\vcpkg\installed\x64-windows\include\glm\detail\_vectorize.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double4_precision.hpp:
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ime_cmodes.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\inaddr.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float3_precision.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float4_precision.hpp:
+C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double4_precision.hpp:
+
+C:\src\vcpkg\installed\x64-windows\include\glm\ext\quaternion_transform.inl:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_double3_precision.hpp:
+
+C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_float4_precision.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int3.hpp:
 
@@ -3441,9 +5349,13 @@ C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint3.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool2.hpp:
 
+C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_vec2.hpp:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\tvout.h":
+
 C:\src\vcpkg\installed\x64-windows\include\glm\packing.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_vec2.hpp:
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\namedpipeapi.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec2.inl:
 
@@ -3457,43 +5369,55 @@ C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int2.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int2_sized.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint2.hpp:
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\memoryapi.h":
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xloctime":
+C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint2.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint2_sized.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat4x2.inl:
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xloctime":
 
 FigvMaterial.h:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_float1_precision.hpp:
+C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat4x2.inl:
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream":
+C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_float1_precision.hpp:
 
 FigvShader.h:
 
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream":
+
 C:\src\vcpkg\installed\x64-windows\include\glm\glm.hpp:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ncrypt.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x3_precision.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\vec4.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat3x3.inl:
-
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_vec4.hpp:
 
-FigvEventManager.h:
+C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat3x3.inl:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\jobapi.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\oaidl.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec4.inl:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\matrix_projection.hpp:
+FigvEventManager.h:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_bool4_precision.hpp:
 
+C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\matrix_projection.hpp:
+
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int4.hpp:
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\combaseapi.h":
+
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\pmmintrin.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\utilapiset.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_int4_sized.hpp:
 
@@ -3501,15 +5425,19 @@ C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint4.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\vector_uint4_sized.hpp:
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fileapifromapp.h":
+
 C:\src\vcpkg\installed\x64-windows\include\glm\mat2x2.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\ext\quaternion_geometric.inl:
-
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x2.hpp:
+
+C:\src\vcpkg\installed\x64-windows\include\glm\ext\quaternion_geometric.inl:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat2x2.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\matrix_projection.inl:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\namespaceapi.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat2x2.inl:
 
@@ -3517,43 +5445,55 @@ C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\matrix.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\mat2x3.hpp:
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\securitybaseapi.h":
+
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat2x3.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x3.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x4.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_half.hpp:
-
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat2x4.hpp:
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\filesystem":
+C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_half.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat2x4.inl:
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\wmmintrin.h":
-
-C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x2.hpp:
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\filesystem":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x4_precision.hpp:
 
+C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x2.hpp:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\wmmintrin.h":
+
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x4.hpp:
 
+imgui\imgui_draw.cpp:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\propidl.h":
+
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x4_precision.hpp:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\Windows.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x2.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat3x2.hpp:
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xsmf_control.h":
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ioapiset.h":
 
-FigvCamera.cpp:
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xsmf_control.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\mat3x3.hpp:
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\mmintrin.h":
+FigvCamera.cpp:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpc.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double3x3.hpp:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\mmintrin.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat3x3.hpp:
 
@@ -3569,9 +5509,13 @@ C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x4.hpp:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winapifamily.h":
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\driverspecs.h":
+
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float3x4_precision.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat4x2.hpp:
+
+FigvWindowSystem.h:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\mat4x3.hpp:
 
@@ -3579,27 +5523,29 @@ C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat4x3.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\scalar_constants.inl:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\trigonometric.hpp:
-
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_mat4x3.inl:
+
+C:\src\vcpkg\installed\x64-windows\include\glm\trigonometric.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x3_precision.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x3.hpp:
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi3.h":
+
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x3_precision.hpp:
-
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\charconv":
-
-FigvRenderer.cpp:
-
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xcall_once.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\mat4x4.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_exponential.inl:
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\charconv":
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xcall_once.h":
+
+FigvRenderer.cpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x4.hpp:
+
+C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_exponential.inl:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_mat4x4.hpp:
 
@@ -3611,25 +5557,31 @@ C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double4x4_precision.
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x4.hpp:
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\interlockedapi.h":
+
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float4x4_precision.hpp:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xcharconv.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\errhandlingapi.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_matrix.inl:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\mat4x4.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\ext\matrix_clip_space.hpp:
-
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\geometric.hpp:
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xlocmon":
+C:\src\vcpkg\installed\x64-windows\include\glm\ext\matrix_clip_space.hpp:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_tzdb.hpp":
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xlocmon":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\exponential.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec1.hpp:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\handleapi.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec1.inl:
 
@@ -3645,31 +5597,43 @@ C:\src\vcpkg\installed\x64-windows\include\glm\detail\compute_common.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_double2x2_precision.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\integer.hpp:
-
 C:\src\vcpkg\installed\x64-windows\include\glm\.\ext\matrix_float2x2_precision.hpp:
 
+C:\src\vcpkg\installed\x64-windows\include\glm\integer.hpp:
+
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_trigonometric.inl:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\enclaveapi.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_packing.inl:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_half.inl:
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winscard.h":
+
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\func_integer.inl:
+
+main.cpp:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\intrin.h":
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xcharconv_ryu.h":
-
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\setjmp.h":
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\chrono":
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xcharconv_ryu.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\rpcnsi.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmeapi.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\type_ptr.hpp:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\chrono":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\immintrin.h":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\nmmintrin.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winsmcrd.h":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_format_ucd_tables.hpp":
 
@@ -3679,11 +5643,19 @@ C:\src\vcpkg\installed\x64-windows\include\glm\gtc\type_ptr.hpp:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ammintrin.h":
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\sysinfoapi.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\profileapi.h":
+
 FigvAuxiliaryFunctions.cpp:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winsvc.h":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\iostream":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\istream":
+
+imgui\backends\imgui_impl_opengl3.h:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xlocnum":
 
@@ -3703,21 +5675,31 @@ FigvAuxiliaryFunctions.cpp:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xtimec.h":
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\lzexpand.h":
+
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ctime":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnt.h":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xlocale":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\typeinfo":
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\iomanip":
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\libloaderapi.h":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xfacet":
 
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\iomanip":
+
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_formatter.hpp":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mcx.h":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xlocinfo":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_xlocinfo_types.hpp":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\dde.h":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\clocale":
 
@@ -3725,9 +5707,15 @@ FigvAuxiliaryFunctions.cpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\detail\setup.hpp:
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\sdkddkver.h":
+
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\epsilon.inl:
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\cderr.h":
+
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\vector_relational.hpp:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\wnnc.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\.\compute_vector_relational.hpp:
 
@@ -3737,19 +5725,25 @@ C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_vec4.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\matrix_transform.hpp:
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnls.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsystem.h":
+
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\scalar_constants.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\trigonometric.hpp:
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xfilesystem_abi.h":
-
 C:\src\vcpkg\installed\x64-windows\include\glm\detail\..\ext\quaternion_relational.hpp:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xfilesystem_abi.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\matrix_transform.inl:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\gtc\quaternion.inl:
-
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\matrix_clip_space.inl:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h":
+
+C:\src\vcpkg\installed\x64-windows\include\glm\gtc\quaternion.inl:
 
 FigvCamera.h:
 
@@ -3759,15 +5753,17 @@ C:\src\vcpkg\installed\x64-windows\include\GL\gl.h:
 
 imgui\imgui.h:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\gtc\vec1.hpp:
-
 imgui\imconfig.h:
+
+C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\gtc\vec1.hpp:
 
 FigvScene.h:
 
 FigvLightSource.h:
 
 FigvLightSource.cpp:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\shellapi.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\gtc\quaternion.hpp:
 
@@ -3783,6 +5779,8 @@ C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\quaternion_common.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\quaternion_common.inl:
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsyscom.h":
+
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\quaternion_float.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\..\detail\type_quat.hpp:
@@ -3791,15 +5789,21 @@ C:\src\vcpkg\installed\x64-windows\include\glm\detail\type_quat.inl:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\quaternion_float_precision.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_bool1_precision.hpp:
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\timezoneapi.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnetwk.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\quaternion_double.hpp:
 
+C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_bool1_precision.hpp:
+
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\quaternion_double_precision.hpp:
 
-C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\quaternion_transform.hpp:
-
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\quaternion_trigonometric.hpp:
+
+C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\quaternion_transform.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\ext\quaternion_trigonometric.inl:
 
@@ -3807,9 +5811,13 @@ C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_bool1.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_double1_precision.hpp:
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\specstrings_strict.h":
+
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_int1.hpp:
 
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_uint1.hpp:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wingdi.h":
 
 C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\vector_uint1_sized.hpp:
 
@@ -3821,9 +5829,17 @@ C:\src\glad\include\KHR\khrplatform.h:
 
 FigvRenderer.h:
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\realtimeapiset.h":
+
 FigvScene.cpp:
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\guiddef.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\objidlbase.h":
+
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\__msvc_chrono.hpp":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wincontypes.h":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ratio":
 
@@ -3837,10 +5853,166 @@ FigvScene.cpp:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xlocbuf":
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\bcrypt.h":
+
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xlocmes":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\optional":
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ddeml.h":
+
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\fstream":
 
 stb_image.h:
+
+FigvWindowSystem.cpp:
+
+glad.c:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\windows.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wincon.h":
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\excpt.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\windef.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\specstrings.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\sdv_driverspecs.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi.h":
+
+imgui\imstb_rectpack.h:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\kernelspecs.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\timeapi.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\apiset.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\ktmtypes.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winbase.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\apisetcconv.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\minwinbase.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\apiquery2.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fibersapi.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\heapapi.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\threadpoollegacyapiset.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\threadpoolapiset.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\jobapi2.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wow64apiset.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\systemtopologyapi.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processtopologyapi.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\securityappcontainer.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winerror.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi2.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winuser.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\datetimeapi.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winver.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\verrsrc.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\reason.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winreg.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\dlgs.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mciapi.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmiscapi2.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\playsoundapi.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\joystickapi.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\nb30.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcdcep.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcnterr.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcasync.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winsock.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wincrypt.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\dpapi.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winefs.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcndr.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\servprov.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\rpcnsip.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcsal.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\wtypesbase.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winioctl.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winspool.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\prsht.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ole2.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\objbase.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\unknwnbase.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\coml2api.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\unknwn.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\propidlbase.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\msxml.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\commdlg.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\stralign.h":
+
+imgui\backends\imgui_impl_glfw.cpp:
+
+C:\src\vcpkg\installed\x64-windows\include\GLFW\glfw3native.h:
+
+imgui\imgui.cpp:
+
+imgui\imgui_internal.h:
+
+imgui\imstb_textedit.h:
+
+imgui\imgui_demo.cpp:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\inttypes.h":
+
+imgui\imstb_truetype.h:
+
+imgui\imgui_tables.cpp:
+
+imgui\imgui_widgets.cpp:
